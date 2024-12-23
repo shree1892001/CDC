@@ -1,0 +1,1243 @@
+2024-12-22 12:05:30 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 12:05:30 - Started replication.
+2024-12-22 12:05:30 - Starting to consume changes...
+2024-12-22 12:05:30 - Received change: b'BEGIN 4313'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b"table public.sample: INSERT: id[integer]:1 name[character varying]:'Shreyas' designation[character varying]:'Python Developer'"
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'COMMIT 4313'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'BEGIN 4314'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'COMMIT 4314'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'BEGIN 4315'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'COMMIT 4315'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'BEGIN 4316'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'COMMIT 4316'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'BEGIN 4317'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b"table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'COMMIT 4317'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'BEGIN 4318'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'COMMIT 4318'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'BEGIN 4319'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b"table public.admin2: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'COMMIT 4319'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'BEGIN 4320'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'COMMIT 4320'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'BEGIN 4321'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'COMMIT 4321'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'BEGIN 4322'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'COMMIT 4322'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'BEGIN 4323'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:05:30 - Received change: b'COMMIT 4323'
+2024-12-22 12:05:30 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:10:36 - Received change: b'BEGIN 4324'
+2024-12-22 12:10:36 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:10:36 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'rameshwar'"
+2024-12-22 12:10:36 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:10:36 - Received change: b'COMMIT 4324'
+2024-12-22 12:10:36 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 12:34:11 - Started replication.
+2024-12-22 12:34:11 - Starting to consume changes...
+2024-12-22 12:34:11 - Received change: b'BEGIN 4313'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b"table public.sample: INSERT: id[integer]:1 name[character varying]:'Shreyas' designation[character varying]:'Python Developer'"
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4313'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'BEGIN 4314'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4314'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'BEGIN 4315'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4315'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'BEGIN 4316'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4316'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'BEGIN 4317'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b"table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4317'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'BEGIN 4318'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4318'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'BEGIN 4319'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b"table public.admin2: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4319'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'BEGIN 4320'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4320'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'BEGIN 4321'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4321'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'BEGIN 4322'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4322'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'BEGIN 4323'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4323'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'BEGIN 4324'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'rameshwar'"
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:11 - Received change: b'COMMIT 4324'
+2024-12-22 12:34:11 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:29 - Received change: b'BEGIN 4325'
+2024-12-22 12:34:29 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:29 - Received change: b"table public.admin2: INSERT: id[integer]:5 name[character varying]:'ramsundar'"
+2024-12-22 12:34:29 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 12:34:29 - Received change: b'COMMIT 4325'
+2024-12-22 12:34:29 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 16:59:55 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 16:59:55 - Started replication from the beginning.
+2024-12-22 16:59:55 - Starting to consume changes...
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 16:59:55 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 17:00:23 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 17:00:23 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 17:00:23 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 17:07:13 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 17:07:13 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 17:07:13 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'data_start_lsn'
+2024-12-22 17:09:20 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:09:20 - Started replication from the beginning.
+2024-12-22 17:09:20 - Starting to consume changes...
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:20 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:27 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:27 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:09:27 - Error processing message: 'psycopg2.extensions.ReplicationMessage' object has no attribute 'lsn'
+2024-12-22 17:13:51 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:13:51 - Started replication from the beginning.
+2024-12-22 17:13:51 - Starting to consume changes...
+2024-12-22 17:13:51 - Received change: b'BEGIN 4313', LSN: 182538232
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.sample: INSERT: id[integer]:1 name[character varying]:'Shreyas' designation[character varying]:'Python Developer'", LSN: 182538232
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4313', LSN: 182538368
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4314', LSN: 182538656
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4314', LSN: 182640176
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4315', LSN: 182640464
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'", LSN: 182640464
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4315', LSN: 182640584
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4316', LSN: 182640896
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'", LSN: 182640896
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4316', LSN: 182641128
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4317', LSN: 182641184
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'", LSN: 182641184
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4317', LSN: 182641304
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4318', LSN: 182641360
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4318', LSN: 182737240
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4319', LSN: 182737240
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin2: INSERT: id[integer]:2 name[character varying]:'Prathamesh'", LSN: 182737240
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4319', LSN: 182737416
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4320', LSN: 182737704
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'", LSN: 182737704
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4320', LSN: 182737936
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4321', LSN: 182737992
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'", LSN: 182737992
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4321', LSN: 182738112
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4322', LSN: 182738400
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'", LSN: 182738400
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4322', LSN: 182738720
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4323', LSN: 182739032
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'", LSN: 182739032
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4323', LSN: 182739400
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4324', LSN: 182739688
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'rameshwar'", LSN: 182739688
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4324', LSN: 182740104
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4325', LSN: 182740392
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin2: INSERT: id[integer]:5 name[character varying]:'ramsundar'", LSN: 182740392
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4325', LSN: 182740848
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4326', LSN: 182741080
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'", LSN: 182741080
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4326', LSN: 182741592
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4327', LSN: 182741880
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'", LSN: 182741880
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4327', LSN: 182742448
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'BEGIN 4328', LSN: 182742504
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'", LSN: 182742504
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:51 - Received change: b'COMMIT 4328', LSN: 182742624
+2024-12-22 17:13:51 - Backup saved to cdc_backups\cdc_backup_20241222_171351.json
+2024-12-22 17:13:51 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:59 - Received change: b'BEGIN 4329', LSN: 182742912
+2024-12-22 17:13:59 - Backup saved to cdc_backups\cdc_backup_20241222_171359.json
+2024-12-22 17:13:59 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:59 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'", LSN: 182742912
+2024-12-22 17:13:59 - Backup saved to cdc_backups\cdc_backup_20241222_171359.json
+2024-12-22 17:13:59 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:13:59 - Received change: b'COMMIT 4329', LSN: 182743584
+2024-12-22 17:13:59 - Backup saved to cdc_backups\cdc_backup_20241222_171359.json
+2024-12-22 17:13:59 - Error saving LSN: write() argument must be str, not int
+2024-12-22 17:22:08 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:22:08 - Started replication from the beginning.
+2024-12-22 17:22:08 - Starting to consume changes...
+2024-12-22 17:22:08 - Received change: b'BEGIN 4313', LSN: 182538232
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182538232 saved.
+2024-12-22 17:22:08 - Received change: b"table public.sample: INSERT: id[integer]:1 name[character varying]:'Shreyas' designation[character varying]:'Python Developer'", LSN: 182538232
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182538232 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4313', LSN: 182538368
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182538368 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4314', LSN: 182538656
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182538656 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4314', LSN: 182640176
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182640176 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4315', LSN: 182640464
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182640464 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'", LSN: 182640464
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182640464 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4315', LSN: 182640584
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182640584 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4316', LSN: 182640896
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182640896 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'", LSN: 182640896
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182640896 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4316', LSN: 182641128
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182641128 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4317', LSN: 182641184
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182641184 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'", LSN: 182641184
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182641184 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4317', LSN: 182641304
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182641304 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4318', LSN: 182641360
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182641360 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4318', LSN: 182737240
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182737240 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4319', LSN: 182737240
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182737240 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin2: INSERT: id[integer]:2 name[character varying]:'Prathamesh'", LSN: 182737240
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182737240 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4319', LSN: 182737416
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182737416 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4320', LSN: 182737704
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182737704 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'", LSN: 182737704
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182737704 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4320', LSN: 182737936
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182737936 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4321', LSN: 182737992
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182737992 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'", LSN: 182737992
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182737992 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4321', LSN: 182738112
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182738112 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4322', LSN: 182738400
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182738400 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'", LSN: 182738400
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182738400 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4322', LSN: 182738720
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182738720 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4323', LSN: 182739032
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182739032 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'", LSN: 182739032
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182739032 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4323', LSN: 182739400
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182739400 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4324', LSN: 182739688
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182739688 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'rameshwar'", LSN: 182739688
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182739688 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4324', LSN: 182740104
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182740104 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4325', LSN: 182740392
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182740392 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin2: INSERT: id[integer]:5 name[character varying]:'ramsundar'", LSN: 182740392
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182740392 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4325', LSN: 182740848
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182740848 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4326', LSN: 182741080
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182741080 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'", LSN: 182741080
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182741080 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4326', LSN: 182741592
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182741592 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4327', LSN: 182741880
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182741880 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'", LSN: 182741880
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182741880 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4327', LSN: 182742448
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182742448 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4328', LSN: 182742504
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182742504 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'", LSN: 182742504
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182742504 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4328', LSN: 182742624
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182742624 saved.
+2024-12-22 17:22:08 - Received change: b'BEGIN 4329', LSN: 182742912
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182742912 saved.
+2024-12-22 17:22:08 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'", LSN: 182742912
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182742912 saved.
+2024-12-22 17:22:08 - Received change: b'COMMIT 4329', LSN: 182743584
+2024-12-22 17:22:08 - Backup saved to cdc_backups\cdc_backup_20241222_172208.json
+2024-12-22 17:22:08 - Last LSN 182743584 saved.
+2024-12-22 17:23:22 - Received change: b'BEGIN 4330', LSN: 182743872
+2024-12-22 17:23:22 - Backup saved to cdc_backups\cdc_backup_20241222_172322.json
+2024-12-22 17:23:22 - Last LSN 182743872 saved.
+2024-12-22 17:23:22 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'", LSN: 182743872
+2024-12-22 17:23:22 - Backup saved to cdc_backups\cdc_backup_20241222_172322.json
+2024-12-22 17:23:22 - Last LSN 182743872 saved.
+2024-12-22 17:23:22 - Received change: b'COMMIT 4330', LSN: 182744592
+2024-12-22 17:23:22 - Backup saved to cdc_backups\cdc_backup_20241222_172322.json
+2024-12-22 17:23:22 - Last LSN 182744592 saved.
+2024-12-22 17:41:30 - Received change: b'BEGIN 4331', LSN: 182744880
+2024-12-22 17:41:30 - Backup saved to cdc_backups\cdc_backup_20241222_174130.json
+2024-12-22 17:41:30 - Last LSN 182744880 saved.
+2024-12-22 17:41:30 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'", LSN: 182744880
+2024-12-22 17:41:30 - Backup saved to cdc_backups\cdc_backup_20241222_174130.json
+2024-12-22 17:41:30 - Last LSN 182744880 saved.
+2024-12-22 17:41:30 - Received change: b'COMMIT 4331', LSN: 182745640
+2024-12-22 17:41:30 - Backup saved to cdc_backups\cdc_backup_20241222_174130.json
+2024-12-22 17:41:30 - Last LSN 182745640 saved.
+2024-12-22 17:45:26 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:45:26 - Unexpected error: 'CDCProcessor' object has no attribute 'start_replication'
+2024-12-22 17:45:28 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:45:28 - Unexpected error: 'CDCProcessor' object has no attribute 'start_replication'
+2024-12-22 17:46:03 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:46:03 - Starting to consume changes...
+2024-12-22 17:46:03 - Error consuming stream: consume_stream: not replicating, call start_replication first
+2024-12-22 17:46:03 - Unexpected error: consume_stream: not replicating, call start_replication first
+2024-12-22 17:50:44 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:50:44 - Unexpected error: 'CDCProcessor' object has no attribute '_get_last_lsn'
+2024-12-22 17:50:47 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:50:47 - Unexpected error: 'CDCProcessor' object has no attribute '_get_last_lsn'
+2024-12-22 17:53:11 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:53:11 - Error starting replication: list index out of range
+2024-12-22 17:53:11 - Unexpected error: list index out of range
+2024-12-22 17:53:14 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:53:14 - Error starting replication: list index out of range
+2024-12-22 17:53:14 - Unexpected error: list index out of range
+2024-12-22 17:57:58 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:57:58 - Last LSN loaded: 182745640
+2024-12-22 17:57:58 - Attempting to start replication from LSN: 182745640
+2024-12-22 17:57:58 - Error starting replication: list index out of range
+2024-12-22 17:57:58 - Unexpected error: list index out of range
+2024-12-22 17:59:38 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 17:59:38 - Last LSN loaded: 182745640
+2024-12-22 17:59:38 - Attempting to start replication from LSN: 182745640
+2024-12-22 17:59:38 - Error starting replication: list index out of range
+2024-12-22 17:59:38 - Unexpected error: list index out of range
+2024-12-22 18:00:16 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:00:16 - Unexpected error: 'CDCProcessor' object has no attribute 'start_replication'
+2024-12-22 18:00:32 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:00:32 - Error starting replication: list index out of range
+2024-12-22 18:00:32 - Unexpected error: list index out of range
+2024-12-22 18:01:24 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:01:24 - Error starting replication: list index out of range
+2024-12-22 18:01:24 - Unexpected error: list index out of range
+2024-12-22 18:03:33 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:03:33 - Error starting replication: list index out of range
+2024-12-22 18:03:33 - Unexpected error: list index out of range
+2024-12-22 18:03:35 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:03:35 - Error starting replication: list index out of range
+2024-12-22 18:03:35 - Unexpected error: list index out of range
+2024-12-22 18:06:55 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:06:55 - Error starting replication: list index out of range
+2024-12-22 18:06:55 - Unexpected error: list index out of range
+2024-12-22 18:10:09 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:10:09 - Unexpected error: 'CDCProcessor' object has no attribute 'start_replication'
+2024-12-22 18:11:02 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:11:02 - Error starting replication: list index out of range
+2024-12-22 18:11:02 - Unexpected error: list index out of range
+2024-12-22 18:15:54 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:15:54 - Error starting replication: list index out of range
+2024-12-22 18:15:54 - Unexpected error: list index out of range
+2024-12-22 18:20:33 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:20:33 - Error starting replication: list index out of range
+2024-12-22 18:20:33 - Unexpected error: list index out of range
+2024-12-22 18:20:56 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:20:56 - Error starting replication: list index out of range
+2024-12-22 18:20:56 - Unexpected error: list index out of range
+2024-12-22 18:21:51 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:21:51 - Error starting replication: list index out of range
+2024-12-22 18:21:51 - Unexpected error: list index out of range
+2024-12-22 18:21:54 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:21:54 - Error starting replication: list index out of range
+2024-12-22 18:21:54 - Unexpected error: list index out of range
+2024-12-22 18:22:00 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:22:00 - Error starting replication: list index out of range
+2024-12-22 18:22:00 - Unexpected error: list index out of range
+2024-12-22 18:22:23 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:22:23 - Started replication.
+2024-12-22 18:22:23 - Starting to consume changes...
+2024-12-22 18:22:23 - Received change: b'BEGIN 4313'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.sample: INSERT: id[integer]:1 name[character varying]:'Shreyas' designation[character varying]:'Python Developer'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4313'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4314'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4314'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4315'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4315'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4316'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4316'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4317'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4317'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4318'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4318'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4319'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4319'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4320'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4320'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4321'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4321'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4322'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4322'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4323'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4323'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4324'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'rameshwar'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4324'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4325'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:5 name[character varying]:'ramsundar'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4325'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4326'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4326'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4327'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4327'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4328'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4328'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4329'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4329'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4330'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4330'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4331'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4331'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'BEGIN 4332'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:23 - Received change: b'COMMIT 4332'
+2024-12-22 18:22:23 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:35 - Received change: b'BEGIN 4333'
+2024-12-22 18:22:35 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:35 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-22 18:22:35 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:22:35 - Received change: b'COMMIT 4333'
+2024-12-22 18:22:35 - Error saving backup: Object of type bytes is not JSON serializable
+2024-12-22 18:26:37 - Replication slot 'vstatetest_slot' already exists.
+2024-12-22 18:26:37 - Started replication.
+2024-12-22 18:26:37 - Starting to consume changes...
+2024-12-22 18:26:37 - Received change: b'BEGIN 4313'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.sample: INSERT: id[integer]:1 name[character varying]:'Shreyas' designation[character varying]:'Python Developer'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4313'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4314'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4314'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4315'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4315'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4316'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4316'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4317'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4317'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4318'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4318'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4319'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin2: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4319'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4320'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4320'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4321'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4321'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4322'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4322'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4323'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4323'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4324'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'rameshwar'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4324'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4325'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin2: INSERT: id[integer]:5 name[character varying]:'ramsundar'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4325'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4326'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4326'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4327'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4327'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4328'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4328'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'BEGIN 4329'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:37 - Received change: b'COMMIT 4329'
+2024-12-22 18:26:37 - Backup saved to cdc_backup.json\cdc_backup_20241222_182637.json
+2024-12-22 18:26:38 - Received change: b'BEGIN 4330'
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:38 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:38 - Received change: b'COMMIT 4330'
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:38 - Received change: b'BEGIN 4331'
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:38 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:38 - Received change: b'COMMIT 4331'
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:38 - Received change: b'BEGIN 4332'
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:38 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:38 - Received change: b'COMMIT 4332'
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:38 - Received change: b'BEGIN 4333'
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:38 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:38 - Received change: b'COMMIT 4333'
+2024-12-22 18:26:38 - Backup saved to cdc_backup.json\cdc_backup_20241222_182638.json
+2024-12-22 18:26:44 - Received change: b'BEGIN 4334'
+2024-12-22 18:26:44 - Backup saved to cdc_backup.json\cdc_backup_20241222_182644.json
+2024-12-22 18:26:44 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-22 18:26:44 - Backup saved to cdc_backup.json\cdc_backup_20241222_182644.json
+2024-12-22 18:26:44 - Received change: b'COMMIT 4334'
+2024-12-22 18:26:44 - Backup saved to cdc_backup.json\cdc_backup_20241222_182644.json
+2024-12-23 10:20:15 - Replication slot 'vstatetest_slot' already exists.
+2024-12-23 10:20:15 - Started replication.
+2024-12-23 10:20:15 - Starting to consume changes...
+2024-12-23 10:20:15 - Received change: b'BEGIN 4313'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.sample: INSERT: id[integer]:1 name[character varying]:'Shreyas' designation[character varying]:'Python Developer'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4313'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4314'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4314'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4315'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4315'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4316'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4316'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4317'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4317'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4318'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4318'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4319'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4319'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4320'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4320'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4321'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4321'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4322'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4322'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4323'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4323'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4324'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'rameshwar'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4324'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4325'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:5 name[character varying]:'ramsundar'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4325'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4326'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4326'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4327'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4327'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4328'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4328'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4329'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4329'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4330'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4330'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4331'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4331'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4332'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4332'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4333'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4333'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4334'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4334'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4335'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'manindar'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4335'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4336'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'manindar'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4336'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4337'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'manindar'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4337'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4338'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'manindar'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4338'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4339'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:10 name[character varying]:'SaumyaRanjan'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4339'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4340'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:10 name[character varying]:'SaumyaRanjan'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4340'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'BEGIN 4341'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b"table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'"
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:15 - Received change: b'COMMIT 4341'
+2024-12-23 10:20:15 - Backup saved to cdc_backup.json\cdc_backup_20241223_102015.json
+2024-12-23 10:20:26 - Received change: b'BEGIN 4342'
+2024-12-23 10:20:26 - Backup saved to cdc_backup.json\cdc_backup_20241223_102026.json
+2024-12-23 10:20:26 - Received change: b"table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'"
+2024-12-23 10:20:26 - Backup saved to cdc_backup.json\cdc_backup_20241223_102026.json
+2024-12-23 10:20:26 - Received change: b'COMMIT 4342'
+2024-12-23 10:20:26 - Backup saved to cdc_backup.json\cdc_backup_20241223_102026.json
+2024-12-23 10:29:09 - Replication slot 'vstatetest_slot' already exists.
+2024-12-23 10:29:09 - Started replication.
+2024-12-23 10:29:09 - Starting to consume changes...
+2024-12-23 10:29:09 - Received change: b'BEGIN 4313'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.sample: INSERT: id[integer]:1 name[character varying]:'Shreyas' designation[character varying]:'Python Developer'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4313'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4314'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4314'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4315'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4315'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4316'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4316'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4317'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4317'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4318'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4318'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4319'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:2 name[character varying]:'Prathamesh'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4319'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4320'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4320'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4321'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'jITESH'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4321'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4322'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4322'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4323'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'satish'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4323'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4324'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:4 name[character varying]:'rameshwar'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4324'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4325'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:5 name[character varying]:'ramsundar'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4325'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4326'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4326'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4327'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4327'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4328'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4328'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4329'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4329'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4330'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4330'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4331'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4331'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4332'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4332'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4333'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4333'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4334'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4334'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4335'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'manindar'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4335'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4336'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'manindar'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4336'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4337'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'manindar'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4337'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4338'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:3 name[character varying]:'manindar'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4338'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4339'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:10 name[character varying]:'SaumyaRanjan'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4339'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4340'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:10 name[character varying]:'SaumyaRanjan'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4340'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4341'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4341'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'BEGIN 4342'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b"table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'"
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2024-12-23 10:29:09 - Received change: b'COMMIT 4342'
+2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json

@@ -39407,3 +39407,1376 @@ LINE 1: SELECT * FROM your_actual_table_name WHERE last_modified > '...
 	before or while processing the request.
 
 2024-12-23 14:53:27 - Replication stream closed.
+2024-12-23 14:53:28 - Replication slot 'vstatetest_slot' already exists.
+2024-12-23 14:53:28 - Listening for changes...
+2024-12-23 14:53:28 - System message received: BEGIN 4313, skipping.
+2024-12-23 14:53:28 - Change detected in table: public.sample. Scheduling backup.
+2024-12-23 14:53:28 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241223_145328.csv
+2024-12-23 14:53:28 - Last processed state saved: 2024-12-23 14:53:28
+2024-12-23 14:53:28 - System message received: COMMIT 4313, skipping.
+2024-12-23 14:53:28 - System message received: BEGIN 4314, skipping.
+2024-12-23 14:53:28 - System message received: COMMIT 4314, skipping.
+2024-12-23 14:53:28 - System message received: BEGIN 4315, skipping.
+2024-12-23 14:53:28 - Change detected in table: public.admin1. Scheduling backup.
+2024-12-23 14:53:29 - Backup for table 'public.admin1' saved to D:\cdc\services\backup\public.admin1_backup_20241223_145328.csv
+2024-12-23 14:53:29 - Last processed state saved: 2024-12-23 14:53:29
+2024-12-23 14:53:29 - System message received: COMMIT 4315, skipping.
+2024-12-23 14:53:29 - System message received: BEGIN 4316, skipping.
+2024-12-23 14:53:29 - Change detected in table: public.admin1. Scheduling backup.
+2024-12-23 14:53:29 - Backup for table 'public.admin1' saved to D:\cdc\services\backup\public.admin1_backup_20241223_145329.csv
+2024-12-23 14:53:29 - Last processed state saved: 2024-12-23 14:53:29
+2024-12-23 14:53:29 - System message received: COMMIT 4316, skipping.
+2024-12-23 14:53:29 - System message received: BEGIN 4317, skipping.
+2024-12-23 14:53:29 - Change detected in table: public.admin1. Scheduling backup.
+2024-12-23 14:53:29 - Backup for table 'public.admin1' saved to D:\cdc\services\backup\public.admin1_backup_20241223_145329.csv
+2024-12-23 14:53:29 - Last processed state saved: 2024-12-23 14:53:29
+2024-12-23 14:53:29 - System message received: COMMIT 4317, skipping.
+2024-12-23 14:53:29 - System message received: BEGIN 4318, skipping.
+2024-12-23 14:53:29 - System message received: COMMIT 4318, skipping.
+2024-12-23 14:53:29 - System message received: BEGIN 4319, skipping.
+2024-12-23 14:53:29 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:29 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145329.csv
+2024-12-23 14:53:29 - Last processed state saved: 2024-12-23 14:53:29
+2024-12-23 14:53:29 - System message received: COMMIT 4319, skipping.
+2024-12-23 14:53:29 - System message received: BEGIN 4320, skipping.
+2024-12-23 14:53:29 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:29 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145329.csv
+2024-12-23 14:53:29 - Last processed state saved: 2024-12-23 14:53:29
+2024-12-23 14:53:29 - System message received: COMMIT 4320, skipping.
+2024-12-23 14:53:29 - System message received: BEGIN 4321, skipping.
+2024-12-23 14:53:29 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:30 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145329.csv
+2024-12-23 14:53:30 - Last processed state saved: 2024-12-23 14:53:30
+2024-12-23 14:53:30 - System message received: COMMIT 4321, skipping.
+2024-12-23 14:53:30 - System message received: BEGIN 4322, skipping.
+2024-12-23 14:53:30 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:30 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145330.csv
+2024-12-23 14:53:30 - Last processed state saved: 2024-12-23 14:53:30
+2024-12-23 14:53:30 - System message received: COMMIT 4322, skipping.
+2024-12-23 14:53:30 - System message received: BEGIN 4323, skipping.
+2024-12-23 14:53:30 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:30 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145330.csv
+2024-12-23 14:53:30 - Last processed state saved: 2024-12-23 14:53:30
+2024-12-23 14:53:30 - System message received: COMMIT 4323, skipping.
+2024-12-23 14:53:30 - System message received: BEGIN 4324, skipping.
+2024-12-23 14:53:30 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:30 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145330.csv
+2024-12-23 14:53:30 - Last processed state saved: 2024-12-23 14:53:30
+2024-12-23 14:53:30 - System message received: COMMIT 4324, skipping.
+2024-12-23 14:53:30 - System message received: BEGIN 4325, skipping.
+2024-12-23 14:53:30 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:30 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145330.csv
+2024-12-23 14:53:30 - Last processed state saved: 2024-12-23 14:53:30
+2024-12-23 14:53:30 - System message received: COMMIT 4325, skipping.
+2024-12-23 14:53:30 - System message received: BEGIN 4326, skipping.
+2024-12-23 14:53:30 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:30 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145330.csv
+2024-12-23 14:53:30 - Last processed state saved: 2024-12-23 14:53:30
+2024-12-23 14:53:30 - System message received: COMMIT 4326, skipping.
+2024-12-23 14:53:30 - System message received: BEGIN 4327, skipping.
+2024-12-23 14:53:30 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:30 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145330.csv
+2024-12-23 14:53:30 - Last processed state saved: 2024-12-23 14:53:30
+2024-12-23 14:53:30 - System message received: COMMIT 4327, skipping.
+2024-12-23 14:53:30 - System message received: BEGIN 4328, skipping.
+2024-12-23 14:53:30 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:31 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145330.csv
+2024-12-23 14:53:31 - Last processed state saved: 2024-12-23 14:53:31
+2024-12-23 14:53:31 - System message received: COMMIT 4328, skipping.
+2024-12-23 14:53:31 - System message received: BEGIN 4329, skipping.
+2024-12-23 14:53:31 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:32 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145331.csv
+2024-12-23 14:53:32 - Last processed state saved: 2024-12-23 14:53:32
+2024-12-23 14:53:32 - System message received: COMMIT 4329, skipping.
+2024-12-23 14:53:32 - System message received: BEGIN 4330, skipping.
+2024-12-23 14:53:32 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:32 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145332.csv
+2024-12-23 14:53:32 - Last processed state saved: 2024-12-23 14:53:32
+2024-12-23 14:53:32 - System message received: COMMIT 4330, skipping.
+2024-12-23 14:53:32 - System message received: BEGIN 4331, skipping.
+2024-12-23 14:53:32 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:32 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145332.csv
+2024-12-23 14:53:32 - Last processed state saved: 2024-12-23 14:53:32
+2024-12-23 14:53:32 - System message received: COMMIT 4331, skipping.
+2024-12-23 14:53:32 - System message received: BEGIN 4332, skipping.
+2024-12-23 14:53:32 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145332.csv
+2024-12-23 14:53:33 - Last processed state saved: 2024-12-23 14:53:33
+2024-12-23 14:53:33 - System message received: COMMIT 4332, skipping.
+2024-12-23 14:53:33 - System message received: BEGIN 4333, skipping.
+2024-12-23 14:53:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145333.csv
+2024-12-23 14:53:33 - Last processed state saved: 2024-12-23 14:53:33
+2024-12-23 14:53:33 - System message received: COMMIT 4333, skipping.
+2024-12-23 14:53:33 - System message received: BEGIN 4334, skipping.
+2024-12-23 14:53:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145333.csv
+2024-12-23 14:53:33 - Last processed state saved: 2024-12-23 14:53:33
+2024-12-23 14:53:33 - System message received: COMMIT 4334, skipping.
+2024-12-23 14:53:33 - System message received: BEGIN 4335, skipping.
+2024-12-23 14:53:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145333.csv
+2024-12-23 14:53:33 - Last processed state saved: 2024-12-23 14:53:33
+2024-12-23 14:53:33 - System message received: COMMIT 4335, skipping.
+2024-12-23 14:53:33 - System message received: BEGIN 4336, skipping.
+2024-12-23 14:53:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145333.csv
+2024-12-23 14:53:33 - Last processed state saved: 2024-12-23 14:53:33
+2024-12-23 14:53:33 - System message received: COMMIT 4336, skipping.
+2024-12-23 14:53:33 - System message received: BEGIN 4337, skipping.
+2024-12-23 14:53:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145333.csv
+2024-12-23 14:53:33 - Last processed state saved: 2024-12-23 14:53:33
+2024-12-23 14:53:33 - System message received: COMMIT 4337, skipping.
+2024-12-23 14:53:33 - System message received: BEGIN 4338, skipping.
+2024-12-23 14:53:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145333.csv
+2024-12-23 14:53:33 - Last processed state saved: 2024-12-23 14:53:33
+2024-12-23 14:53:33 - System message received: COMMIT 4338, skipping.
+2024-12-23 14:53:33 - System message received: BEGIN 4339, skipping.
+2024-12-23 14:53:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145333.csv
+2024-12-23 14:53:33 - Last processed state saved: 2024-12-23 14:53:33
+2024-12-23 14:53:33 - System message received: COMMIT 4339, skipping.
+2024-12-23 14:53:33 - System message received: BEGIN 4340, skipping.
+2024-12-23 14:53:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145333.csv
+2024-12-23 14:53:34 - Last processed state saved: 2024-12-23 14:53:34
+2024-12-23 14:53:34 - System message received: COMMIT 4340, skipping.
+2024-12-23 14:53:34 - System message received: BEGIN 4341, skipping.
+2024-12-23 14:53:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145334.csv
+2024-12-23 14:53:34 - Last processed state saved: 2024-12-23 14:53:34
+2024-12-23 14:53:34 - System message received: COMMIT 4341, skipping.
+2024-12-23 14:53:34 - System message received: BEGIN 4342, skipping.
+2024-12-23 14:53:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145334.csv
+2024-12-23 14:53:34 - Last processed state saved: 2024-12-23 14:53:34
+2024-12-23 14:53:34 - System message received: COMMIT 4342, skipping.
+2024-12-23 14:53:34 - System message received: BEGIN 4343, skipping.
+2024-12-23 14:53:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145334.csv
+2024-12-23 14:53:34 - Last processed state saved: 2024-12-23 14:53:34
+2024-12-23 14:53:34 - System message received: COMMIT 4343, skipping.
+2024-12-23 14:53:34 - System message received: BEGIN 4344, skipping.
+2024-12-23 14:53:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145334.csv
+2024-12-23 14:53:34 - Last processed state saved: 2024-12-23 14:53:34
+2024-12-23 14:53:34 - System message received: COMMIT 4344, skipping.
+2024-12-23 14:53:34 - System message received: BEGIN 4345, skipping.
+2024-12-23 14:53:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145334.csv
+2024-12-23 14:53:34 - Last processed state saved: 2024-12-23 14:53:34
+2024-12-23 14:53:34 - System message received: COMMIT 4345, skipping.
+2024-12-23 14:53:34 - System message received: BEGIN 4346, skipping.
+2024-12-23 14:53:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145334.csv
+2024-12-23 14:53:34 - Last processed state saved: 2024-12-23 14:53:34
+2024-12-23 14:53:34 - System message received: COMMIT 4346, skipping.
+2024-12-23 14:53:34 - System message received: BEGIN 4347, skipping.
+2024-12-23 14:53:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145334.csv
+2024-12-23 14:53:34 - Last processed state saved: 2024-12-23 14:53:34
+2024-12-23 14:53:34 - System message received: COMMIT 4347, skipping.
+2024-12-23 14:53:34 - System message received: BEGIN 4348, skipping.
+2024-12-23 14:53:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145334.csv
+2024-12-23 14:53:34 - Last processed state saved: 2024-12-23 14:53:34
+2024-12-23 14:53:34 - System message received: COMMIT 4348, skipping.
+2024-12-23 14:53:34 - System message received: BEGIN 4349, skipping.
+2024-12-23 14:53:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145334.csv
+2024-12-23 14:53:34 - Last processed state saved: 2024-12-23 14:53:34
+2024-12-23 14:53:34 - System message received: COMMIT 4349, skipping.
+2024-12-23 14:53:34 - System message received: BEGIN 4350, skipping.
+2024-12-23 14:53:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145334.csv
+2024-12-23 14:53:35 - Last processed state saved: 2024-12-23 14:53:35
+2024-12-23 14:53:35 - System message received: COMMIT 4350, skipping.
+2024-12-23 14:53:35 - System message received: BEGIN 4351, skipping.
+2024-12-23 14:53:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145335.csv
+2024-12-23 14:53:35 - Last processed state saved: 2024-12-23 14:53:35
+2024-12-23 14:53:35 - System message received: COMMIT 4351, skipping.
+2024-12-23 14:53:35 - System message received: BEGIN 4352, skipping.
+2024-12-23 14:53:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145335.csv
+2024-12-23 14:53:35 - Last processed state saved: 2024-12-23 14:53:35
+2024-12-23 14:53:35 - System message received: COMMIT 4352, skipping.
+2024-12-23 14:53:35 - System message received: BEGIN 4353, skipping.
+2024-12-23 14:53:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145335.csv
+2024-12-23 14:53:35 - Last processed state saved: 2024-12-23 14:53:35
+2024-12-23 14:53:35 - System message received: COMMIT 4353, skipping.
+2024-12-23 14:53:35 - System message received: BEGIN 4354, skipping.
+2024-12-23 14:53:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145335.csv
+2024-12-23 14:53:35 - Last processed state saved: 2024-12-23 14:53:35
+2024-12-23 14:53:35 - System message received: COMMIT 4354, skipping.
+2024-12-23 14:53:35 - System message received: BEGIN 4355, skipping.
+2024-12-23 14:53:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145335.csv
+2024-12-23 14:53:35 - Last processed state saved: 2024-12-23 14:53:35
+2024-12-23 14:53:35 - System message received: COMMIT 4355, skipping.
+2024-12-23 14:53:35 - System message received: BEGIN 4356, skipping.
+2024-12-23 14:53:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145335.csv
+2024-12-23 14:53:35 - Last processed state saved: 2024-12-23 14:53:35
+2024-12-23 14:53:35 - System message received: COMMIT 4356, skipping.
+2024-12-23 14:53:35 - System message received: BEGIN 4357, skipping.
+2024-12-23 14:53:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145335.csv
+2024-12-23 14:53:35 - Last processed state saved: 2024-12-23 14:53:35
+2024-12-23 14:53:35 - System message received: COMMIT 4357, skipping.
+2024-12-23 14:53:35 - System message received: BEGIN 4358, skipping.
+2024-12-23 14:53:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145335.csv
+2024-12-23 14:53:35 - Last processed state saved: 2024-12-23 14:53:35
+2024-12-23 14:53:35 - System message received: COMMIT 4358, skipping.
+2024-12-23 14:53:35 - System message received: BEGIN 4359, skipping.
+2024-12-23 14:53:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145335.csv
+2024-12-23 14:53:36 - Last processed state saved: 2024-12-23 14:53:36
+2024-12-23 14:53:36 - System message received: COMMIT 4359, skipping.
+2024-12-23 14:53:36 - System message received: BEGIN 4360, skipping.
+2024-12-23 14:53:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145336.csv
+2024-12-23 14:53:36 - Last processed state saved: 2024-12-23 14:53:36
+2024-12-23 14:53:36 - System message received: COMMIT 4360, skipping.
+2024-12-23 14:53:36 - System message received: BEGIN 4361, skipping.
+2024-12-23 14:53:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145336.csv
+2024-12-23 14:53:36 - Last processed state saved: 2024-12-23 14:53:36
+2024-12-23 14:53:36 - System message received: COMMIT 4361, skipping.
+2024-12-23 14:53:36 - System message received: BEGIN 4362, skipping.
+2024-12-23 14:53:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145336.csv
+2024-12-23 14:53:36 - Last processed state saved: 2024-12-23 14:53:36
+2024-12-23 14:53:36 - System message received: COMMIT 4362, skipping.
+2024-12-23 14:53:36 - System message received: BEGIN 4363, skipping.
+2024-12-23 14:53:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145336.csv
+2024-12-23 14:53:36 - Last processed state saved: 2024-12-23 14:53:36
+2024-12-23 14:53:36 - System message received: COMMIT 4363, skipping.
+2024-12-23 14:53:36 - System message received: BEGIN 4364, skipping.
+2024-12-23 14:53:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145336.csv
+2024-12-23 14:53:36 - Last processed state saved: 2024-12-23 14:53:36
+2024-12-23 14:53:36 - System message received: COMMIT 4364, skipping.
+2024-12-23 14:53:36 - System message received: BEGIN 4365, skipping.
+2024-12-23 14:53:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145336.csv
+2024-12-23 14:53:36 - Last processed state saved: 2024-12-23 14:53:36
+2024-12-23 14:53:36 - System message received: COMMIT 4365, skipping.
+2024-12-23 14:53:36 - System message received: BEGIN 4366, skipping.
+2024-12-23 14:53:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145336.csv
+2024-12-23 14:53:36 - Last processed state saved: 2024-12-23 14:53:36
+2024-12-23 14:53:36 - System message received: COMMIT 4366, skipping.
+2024-12-23 14:53:36 - System message received: BEGIN 4367, skipping.
+2024-12-23 14:53:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145336.csv
+2024-12-23 14:53:36 - Last processed state saved: 2024-12-23 14:53:36
+2024-12-23 14:53:36 - System message received: COMMIT 4367, skipping.
+2024-12-23 14:53:36 - System message received: BEGIN 4368, skipping.
+2024-12-23 14:53:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145336.csv
+2024-12-23 14:53:36 - Last processed state saved: 2024-12-23 14:53:36
+2024-12-23 14:53:36 - System message received: COMMIT 4368, skipping.
+2024-12-23 14:53:36 - System message received: BEGIN 4372, skipping.
+2024-12-23 14:53:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:37 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145336.csv
+2024-12-23 14:53:37 - Last processed state saved: 2024-12-23 14:53:37
+2024-12-23 14:53:37 - System message received: COMMIT 4372, skipping.
+2024-12-23 14:53:37 - System message received: BEGIN 4373, skipping.
+2024-12-23 14:53:37 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:37 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145337.csv
+2024-12-23 14:53:37 - Last processed state saved: 2024-12-23 14:53:37
+2024-12-23 14:53:37 - System message received: COMMIT 4373, skipping.
+2024-12-23 14:53:37 - System message received: BEGIN 4374, skipping.
+2024-12-23 14:53:37 - System message received: COMMIT 4374, skipping.
+2024-12-23 14:53:37 - System message received: BEGIN 4375, skipping.
+2024-12-23 14:53:37 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:37 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145337.csv
+2024-12-23 14:53:37 - Last processed state saved: 2024-12-23 14:53:37
+2024-12-23 14:53:37 - System message received: COMMIT 4375, skipping.
+2024-12-23 14:53:37 - System message received: BEGIN 4376, skipping.
+2024-12-23 14:53:37 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:37 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145337.csv
+2024-12-23 14:53:37 - Last processed state saved: 2024-12-23 14:53:37
+2024-12-23 14:53:37 - System message received: COMMIT 4376, skipping.
+2024-12-23 14:53:37 - System message received: BEGIN 4377, skipping.
+2024-12-23 14:53:37 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:37 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145337.csv
+2024-12-23 14:53:37 - Last processed state saved: 2024-12-23 14:53:37
+2024-12-23 14:53:37 - System message received: COMMIT 4377, skipping.
+2024-12-23 14:53:37 - System message received: BEGIN 4378, skipping.
+2024-12-23 14:53:37 - System message received: COMMIT 4378, skipping.
+2024-12-23 14:53:37 - System message received: BEGIN 4379, skipping.
+2024-12-23 14:53:37 - Change detected in table: public.admin3. Scheduling backup.
+2024-12-23 14:53:37 - Backup for table 'public.admin3' saved to D:\cdc\services\backup\public.admin3_backup_20241223_145337.csv
+2024-12-23 14:53:37 - Last processed state saved: 2024-12-23 14:53:37
+2024-12-23 14:53:37 - System message received: COMMIT 4379, skipping.
+2024-12-23 14:53:37 - System message received: BEGIN 4381, skipping.
+2024-12-23 14:53:37 - Change detected in table: public.admin3. Scheduling backup.
+2024-12-23 14:53:38 - Backup for table 'public.admin3' saved to D:\cdc\services\backup\public.admin3_backup_20241223_145337.csv
+2024-12-23 14:53:38 - Last processed state saved: 2024-12-23 14:53:38
+2024-12-23 14:53:38 - System message received: COMMIT 4381, skipping.
+2024-12-23 14:53:38 - System message received: BEGIN 4382, skipping.
+2024-12-23 14:53:38 - Change detected in table: public.admin3. Scheduling backup.
+2024-12-23 14:53:38 - Backup for table 'public.admin3' saved to D:\cdc\services\backup\public.admin3_backup_20241223_145338.csv
+2024-12-23 14:53:38 - Last processed state saved: 2024-12-23 14:53:38
+2024-12-23 14:53:38 - System message received: COMMIT 4382, skipping.
+2024-12-23 14:53:38 - System message received: BEGIN 4383, skipping.
+2024-12-23 14:53:38 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:39 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145338.csv
+2024-12-23 14:53:39 - Last processed state saved: 2024-12-23 14:53:39
+2024-12-23 14:53:39 - System message received: COMMIT 4383, skipping.
+2024-12-23 14:53:39 - System message received: BEGIN 4384, skipping.
+2024-12-23 14:53:39 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:39 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145339.csv
+2024-12-23 14:53:39 - Last processed state saved: 2024-12-23 14:53:39
+2024-12-23 14:53:39 - System message received: COMMIT 4384, skipping.
+2024-12-23 14:53:39 - System message received: BEGIN 4385, skipping.
+2024-12-23 14:53:39 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:40 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145339.csv
+2024-12-23 14:53:40 - Last processed state saved: 2024-12-23 14:53:40
+2024-12-23 14:53:40 - System message received: COMMIT 4385, skipping.
+2024-12-23 14:53:40 - System message received: BEGIN 4386, skipping.
+2024-12-23 14:53:40 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:41 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145340.csv
+2024-12-23 14:53:41 - Last processed state saved: 2024-12-23 14:53:41
+2024-12-23 14:53:41 - System message received: COMMIT 4386, skipping.
+2024-12-23 14:53:41 - System message received: BEGIN 4387, skipping.
+2024-12-23 14:53:41 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:41 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145341.csv
+2024-12-23 14:53:41 - Last processed state saved: 2024-12-23 14:53:41
+2024-12-23 14:53:41 - System message received: COMMIT 4387, skipping.
+2024-12-23 14:53:41 - System message received: BEGIN 4388, skipping.
+2024-12-23 14:53:41 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:41 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145341.csv
+2024-12-23 14:53:41 - Last processed state saved: 2024-12-23 14:53:41
+2024-12-23 14:53:41 - System message received: COMMIT 4388, skipping.
+2024-12-23 14:53:41 - System message received: BEGIN 4389, skipping.
+2024-12-23 14:53:41 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:42 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145341.csv
+2024-12-23 14:53:42 - Last processed state saved: 2024-12-23 14:53:42
+2024-12-23 14:53:42 - System message received: COMMIT 4389, skipping.
+2024-12-23 14:53:42 - System message received: BEGIN 4390, skipping.
+2024-12-23 14:53:42 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:42 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145342.csv
+2024-12-23 14:53:42 - Last processed state saved: 2024-12-23 14:53:42
+2024-12-23 14:53:42 - System message received: COMMIT 4390, skipping.
+2024-12-23 14:53:42 - System message received: BEGIN 4391, skipping.
+2024-12-23 14:53:42 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:42 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145342.csv
+2024-12-23 14:53:42 - Last processed state saved: 2024-12-23 14:53:42
+2024-12-23 14:53:42 - System message received: COMMIT 4391, skipping.
+2024-12-23 14:53:42 - System message received: BEGIN 4392, skipping.
+2024-12-23 14:53:42 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:42 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145342.csv
+2024-12-23 14:53:42 - Last processed state saved: 2024-12-23 14:53:42
+2024-12-23 14:53:42 - System message received: COMMIT 4392, skipping.
+2024-12-23 14:53:42 - System message received: BEGIN 4393, skipping.
+2024-12-23 14:53:42 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:42 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145342.csv
+2024-12-23 14:53:42 - Last processed state saved: 2024-12-23 14:53:42
+2024-12-23 14:53:42 - System message received: COMMIT 4393, skipping.
+2024-12-23 14:53:42 - System message received: BEGIN 4394, skipping.
+2024-12-23 14:53:42 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:42 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145342.csv
+2024-12-23 14:53:42 - Last processed state saved: 2024-12-23 14:53:42
+2024-12-23 14:53:42 - System message received: COMMIT 4394, skipping.
+2024-12-23 14:53:42 - System message received: BEGIN 4395, skipping.
+2024-12-23 14:53:42 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:42 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145342.csv
+2024-12-23 14:53:42 - Last processed state saved: 2024-12-23 14:53:42
+2024-12-23 14:53:42 - System message received: COMMIT 4395, skipping.
+2024-12-23 14:53:42 - System message received: BEGIN 4396, skipping.
+2024-12-23 14:53:42 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:42 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145342.csv
+2024-12-23 14:53:42 - Last processed state saved: 2024-12-23 14:53:42
+2024-12-23 14:53:42 - System message received: COMMIT 4396, skipping.
+2024-12-23 14:53:42 - System message received: BEGIN 4397, skipping.
+2024-12-23 14:53:42 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:42 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145342.csv
+2024-12-23 14:53:42 - Last processed state saved: 2024-12-23 14:53:42
+2024-12-23 14:53:42 - System message received: COMMIT 4397, skipping.
+2024-12-23 14:53:42 - System message received: BEGIN 4398, skipping.
+2024-12-23 14:53:42 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:43 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145342.csv
+2024-12-23 14:53:43 - Last processed state saved: 2024-12-23 14:53:43
+2024-12-23 14:53:43 - System message received: COMMIT 4398, skipping.
+2024-12-23 14:53:43 - System message received: BEGIN 4399, skipping.
+2024-12-23 14:53:43 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:43 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145343.csv
+2024-12-23 14:53:43 - Last processed state saved: 2024-12-23 14:53:43
+2024-12-23 14:53:43 - System message received: COMMIT 4399, skipping.
+2024-12-23 14:53:43 - System message received: BEGIN 4400, skipping.
+2024-12-23 14:53:43 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:43 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145343.csv
+2024-12-23 14:53:43 - Last processed state saved: 2024-12-23 14:53:43
+2024-12-23 14:53:43 - System message received: COMMIT 4400, skipping.
+2024-12-23 14:53:43 - System message received: BEGIN 4401, skipping.
+2024-12-23 14:53:43 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:43 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145343.csv
+2024-12-23 14:53:43 - Last processed state saved: 2024-12-23 14:53:43
+2024-12-23 14:53:43 - System message received: COMMIT 4401, skipping.
+2024-12-23 14:53:43 - System message received: BEGIN 4402, skipping.
+2024-12-23 14:53:43 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:43 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145343.csv
+2024-12-23 14:53:43 - Last processed state saved: 2024-12-23 14:53:43
+2024-12-23 14:53:43 - System message received: COMMIT 4402, skipping.
+2024-12-23 14:53:43 - System message received: BEGIN 4403, skipping.
+2024-12-23 14:53:43 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 14:53:43 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_145343.csv
+2024-12-23 14:53:43 - Last processed state saved: 2024-12-23 14:53:43
+2024-12-23 14:53:43 - System message received: COMMIT 4403, skipping.
+2024-12-23 14:53:43 - System message received: BEGIN 4404, skipping.
+2024-12-23 14:53:43 - Change detected in table: public.sample. Scheduling backup.
+2024-12-23 14:53:43 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241223_145343.csv
+2024-12-23 14:53:43 - Last processed state saved: 2024-12-23 14:53:43
+2024-12-23 14:53:43 - System message received: COMMIT 4404, skipping.
+2024-12-23 14:53:43 - System message received: BEGIN 4405, skipping.
+2024-12-23 14:53:43 - Change detected in table: public.sample. Scheduling backup.
+2024-12-23 14:53:43 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241223_145343.csv
+2024-12-23 14:53:43 - Last processed state saved: 2024-12-23 14:53:43
+2024-12-23 14:53:43 - System message received: COMMIT 4405, skipping.
+2024-12-23 14:53:43 - System message received: BEGIN 4406, skipping.
+2024-12-23 14:53:43 - Change detected in table: public.sample. Scheduling backup.
+2024-12-23 14:53:43 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241223_145343.csv
+2024-12-23 14:53:43 - Last processed state saved: 2024-12-23 14:53:43
+2024-12-23 14:53:43 - System message received: COMMIT 4406, skipping.
+2024-12-23 14:53:43 - System message received: BEGIN 4407, skipping.
+2024-12-23 14:53:43 - Change detected in table: public.sample. Scheduling backup.
+2024-12-23 14:53:43 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241223_145343.csv
+2024-12-23 14:53:43 - Last processed state saved: 2024-12-23 14:53:43
+2024-12-23 14:53:43 - System message received: COMMIT 4407, skipping.
+2024-12-23 18:25:30 - Replication slot 'vstatetest_slot' already exists.
+2024-12-23 18:25:30 - Listening for changes...
+2024-12-23 18:25:30 - System message received: BEGIN 4313, skipping.
+2024-12-23 18:25:30 - Change detected in table: public.sample. Scheduling backup.
+2024-12-23 18:25:31 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241223_182530.csv
+2024-12-23 18:25:31 - Last processed state saved: 2024-12-23 18:25:31
+2024-12-23 18:25:31 - System message received: COMMIT 4313, skipping.
+2024-12-23 18:25:31 - System message received: BEGIN 4314, skipping.
+2024-12-23 18:25:31 - System message received: COMMIT 4314, skipping.
+2024-12-23 18:25:31 - System message received: BEGIN 4315, skipping.
+2024-12-23 18:25:31 - Change detected in table: public.admin1. Scheduling backup.
+2024-12-23 18:25:31 - Backup for table 'public.admin1' saved to D:\cdc\services\backup\public.admin1_backup_20241223_182531.csv
+2024-12-23 18:25:32 - Last processed state saved: 2024-12-23 18:25:32
+2024-12-23 18:25:32 - System message received: COMMIT 4315, skipping.
+2024-12-23 18:25:32 - System message received: BEGIN 4316, skipping.
+2024-12-23 18:25:32 - Change detected in table: public.admin1. Scheduling backup.
+2024-12-23 18:25:32 - Backup for table 'public.admin1' saved to D:\cdc\services\backup\public.admin1_backup_20241223_182532.csv
+2024-12-23 18:25:32 - Last processed state saved: 2024-12-23 18:25:32
+2024-12-23 18:25:32 - System message received: COMMIT 4316, skipping.
+2024-12-23 18:25:32 - System message received: BEGIN 4317, skipping.
+2024-12-23 18:25:32 - Change detected in table: public.admin1. Scheduling backup.
+2024-12-23 18:25:32 - Backup for table 'public.admin1' saved to D:\cdc\services\backup\public.admin1_backup_20241223_182532.csv
+2024-12-23 18:25:32 - Last processed state saved: 2024-12-23 18:25:32
+2024-12-23 18:25:32 - System message received: COMMIT 4317, skipping.
+2024-12-23 18:25:32 - System message received: BEGIN 4318, skipping.
+2024-12-23 18:25:32 - System message received: COMMIT 4318, skipping.
+2024-12-23 18:25:32 - System message received: BEGIN 4319, skipping.
+2024-12-23 18:25:32 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:32 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182532.csv
+2024-12-23 18:25:32 - Last processed state saved: 2024-12-23 18:25:32
+2024-12-23 18:25:32 - System message received: COMMIT 4319, skipping.
+2024-12-23 18:25:32 - System message received: BEGIN 4320, skipping.
+2024-12-23 18:25:32 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:32 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182532.csv
+2024-12-23 18:25:32 - Last processed state saved: 2024-12-23 18:25:32
+2024-12-23 18:25:32 - System message received: COMMIT 4320, skipping.
+2024-12-23 18:25:32 - System message received: BEGIN 4321, skipping.
+2024-12-23 18:25:32 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:32 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182532.csv
+2024-12-23 18:25:32 - Last processed state saved: 2024-12-23 18:25:32
+2024-12-23 18:25:32 - System message received: COMMIT 4321, skipping.
+2024-12-23 18:25:32 - System message received: BEGIN 4322, skipping.
+2024-12-23 18:25:32 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182532.csv
+2024-12-23 18:25:33 - Last processed state saved: 2024-12-23 18:25:33
+2024-12-23 18:25:33 - System message received: COMMIT 4322, skipping.
+2024-12-23 18:25:33 - System message received: BEGIN 4323, skipping.
+2024-12-23 18:25:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182533.csv
+2024-12-23 18:25:33 - Last processed state saved: 2024-12-23 18:25:33
+2024-12-23 18:25:33 - System message received: COMMIT 4323, skipping.
+2024-12-23 18:25:33 - System message received: BEGIN 4324, skipping.
+2024-12-23 18:25:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182533.csv
+2024-12-23 18:25:33 - Last processed state saved: 2024-12-23 18:25:33
+2024-12-23 18:25:33 - System message received: COMMIT 4324, skipping.
+2024-12-23 18:25:33 - System message received: BEGIN 4325, skipping.
+2024-12-23 18:25:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182533.csv
+2024-12-23 18:25:33 - Last processed state saved: 2024-12-23 18:25:33
+2024-12-23 18:25:33 - System message received: COMMIT 4325, skipping.
+2024-12-23 18:25:33 - System message received: BEGIN 4326, skipping.
+2024-12-23 18:25:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182533.csv
+2024-12-23 18:25:33 - Last processed state saved: 2024-12-23 18:25:33
+2024-12-23 18:25:33 - System message received: COMMIT 4326, skipping.
+2024-12-23 18:25:33 - System message received: BEGIN 4327, skipping.
+2024-12-23 18:25:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182533.csv
+2024-12-23 18:25:33 - Last processed state saved: 2024-12-23 18:25:33
+2024-12-23 18:25:33 - System message received: COMMIT 4327, skipping.
+2024-12-23 18:25:33 - System message received: BEGIN 4328, skipping.
+2024-12-23 18:25:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182533.csv
+2024-12-23 18:25:33 - Last processed state saved: 2024-12-23 18:25:33
+2024-12-23 18:25:33 - System message received: COMMIT 4328, skipping.
+2024-12-23 18:25:33 - System message received: BEGIN 4329, skipping.
+2024-12-23 18:25:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:33 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182533.csv
+2024-12-23 18:25:33 - Last processed state saved: 2024-12-23 18:25:33
+2024-12-23 18:25:33 - System message received: COMMIT 4329, skipping.
+2024-12-23 18:25:33 - System message received: BEGIN 4330, skipping.
+2024-12-23 18:25:33 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182533.csv
+2024-12-23 18:25:34 - Last processed state saved: 2024-12-23 18:25:34
+2024-12-23 18:25:34 - System message received: COMMIT 4330, skipping.
+2024-12-23 18:25:34 - System message received: BEGIN 4331, skipping.
+2024-12-23 18:25:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182534.csv
+2024-12-23 18:25:34 - Last processed state saved: 2024-12-23 18:25:34
+2024-12-23 18:25:34 - System message received: COMMIT 4331, skipping.
+2024-12-23 18:25:34 - System message received: BEGIN 4332, skipping.
+2024-12-23 18:25:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182534.csv
+2024-12-23 18:25:34 - Last processed state saved: 2024-12-23 18:25:34
+2024-12-23 18:25:34 - System message received: COMMIT 4332, skipping.
+2024-12-23 18:25:34 - System message received: BEGIN 4333, skipping.
+2024-12-23 18:25:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182534.csv
+2024-12-23 18:25:34 - Last processed state saved: 2024-12-23 18:25:34
+2024-12-23 18:25:34 - System message received: COMMIT 4333, skipping.
+2024-12-23 18:25:34 - System message received: BEGIN 4334, skipping.
+2024-12-23 18:25:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182534.csv
+2024-12-23 18:25:34 - Last processed state saved: 2024-12-23 18:25:34
+2024-12-23 18:25:34 - System message received: COMMIT 4334, skipping.
+2024-12-23 18:25:34 - System message received: BEGIN 4335, skipping.
+2024-12-23 18:25:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182534.csv
+2024-12-23 18:25:34 - Last processed state saved: 2024-12-23 18:25:34
+2024-12-23 18:25:34 - System message received: COMMIT 4335, skipping.
+2024-12-23 18:25:34 - System message received: BEGIN 4336, skipping.
+2024-12-23 18:25:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182534.csv
+2024-12-23 18:25:34 - Last processed state saved: 2024-12-23 18:25:34
+2024-12-23 18:25:34 - System message received: COMMIT 4336, skipping.
+2024-12-23 18:25:34 - System message received: BEGIN 4337, skipping.
+2024-12-23 18:25:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:34 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182534.csv
+2024-12-23 18:25:34 - Last processed state saved: 2024-12-23 18:25:34
+2024-12-23 18:25:34 - System message received: COMMIT 4337, skipping.
+2024-12-23 18:25:34 - System message received: BEGIN 4338, skipping.
+2024-12-23 18:25:34 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182534.csv
+2024-12-23 18:25:35 - Last processed state saved: 2024-12-23 18:25:35
+2024-12-23 18:25:35 - System message received: COMMIT 4338, skipping.
+2024-12-23 18:25:35 - System message received: BEGIN 4339, skipping.
+2024-12-23 18:25:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182535.csv
+2024-12-23 18:25:35 - Last processed state saved: 2024-12-23 18:25:35
+2024-12-23 18:25:35 - System message received: COMMIT 4339, skipping.
+2024-12-23 18:25:35 - System message received: BEGIN 4340, skipping.
+2024-12-23 18:25:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182535.csv
+2024-12-23 18:25:35 - Last processed state saved: 2024-12-23 18:25:35
+2024-12-23 18:25:35 - System message received: COMMIT 4340, skipping.
+2024-12-23 18:25:35 - System message received: BEGIN 4341, skipping.
+2024-12-23 18:25:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182535.csv
+2024-12-23 18:25:35 - Last processed state saved: 2024-12-23 18:25:35
+2024-12-23 18:25:35 - System message received: COMMIT 4341, skipping.
+2024-12-23 18:25:35 - System message received: BEGIN 4342, skipping.
+2024-12-23 18:25:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182535.csv
+2024-12-23 18:25:35 - Last processed state saved: 2024-12-23 18:25:35
+2024-12-23 18:25:35 - System message received: COMMIT 4342, skipping.
+2024-12-23 18:25:35 - System message received: BEGIN 4343, skipping.
+2024-12-23 18:25:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182535.csv
+2024-12-23 18:25:35 - Last processed state saved: 2024-12-23 18:25:35
+2024-12-23 18:25:35 - System message received: COMMIT 4343, skipping.
+2024-12-23 18:25:35 - System message received: BEGIN 4344, skipping.
+2024-12-23 18:25:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182535.csv
+2024-12-23 18:25:35 - Last processed state saved: 2024-12-23 18:25:35
+2024-12-23 18:25:35 - System message received: COMMIT 4344, skipping.
+2024-12-23 18:25:35 - System message received: BEGIN 4345, skipping.
+2024-12-23 18:25:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182535.csv
+2024-12-23 18:25:35 - Last processed state saved: 2024-12-23 18:25:35
+2024-12-23 18:25:35 - System message received: COMMIT 4345, skipping.
+2024-12-23 18:25:35 - System message received: BEGIN 4346, skipping.
+2024-12-23 18:25:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182535.csv
+2024-12-23 18:25:35 - Last processed state saved: 2024-12-23 18:25:35
+2024-12-23 18:25:35 - System message received: COMMIT 4346, skipping.
+2024-12-23 18:25:35 - System message received: BEGIN 4347, skipping.
+2024-12-23 18:25:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:35 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182535.csv
+2024-12-23 18:25:35 - Last processed state saved: 2024-12-23 18:25:35
+2024-12-23 18:25:35 - System message received: COMMIT 4347, skipping.
+2024-12-23 18:25:35 - System message received: BEGIN 4348, skipping.
+2024-12-23 18:25:35 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182535.csv
+2024-12-23 18:25:36 - Last processed state saved: 2024-12-23 18:25:36
+2024-12-23 18:25:36 - System message received: COMMIT 4348, skipping.
+2024-12-23 18:25:36 - System message received: BEGIN 4349, skipping.
+2024-12-23 18:25:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182536.csv
+2024-12-23 18:25:36 - Last processed state saved: 2024-12-23 18:25:36
+2024-12-23 18:25:36 - System message received: COMMIT 4349, skipping.
+2024-12-23 18:25:36 - System message received: BEGIN 4350, skipping.
+2024-12-23 18:25:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182536.csv
+2024-12-23 18:25:36 - Last processed state saved: 2024-12-23 18:25:36
+2024-12-23 18:25:36 - System message received: COMMIT 4350, skipping.
+2024-12-23 18:25:36 - System message received: BEGIN 4351, skipping.
+2024-12-23 18:25:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182536.csv
+2024-12-23 18:25:36 - Last processed state saved: 2024-12-23 18:25:36
+2024-12-23 18:25:36 - System message received: COMMIT 4351, skipping.
+2024-12-23 18:25:36 - System message received: BEGIN 4352, skipping.
+2024-12-23 18:25:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182536.csv
+2024-12-23 18:25:36 - Last processed state saved: 2024-12-23 18:25:36
+2024-12-23 18:25:36 - System message received: COMMIT 4352, skipping.
+2024-12-23 18:25:36 - System message received: BEGIN 4353, skipping.
+2024-12-23 18:25:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182536.csv
+2024-12-23 18:25:36 - Last processed state saved: 2024-12-23 18:25:36
+2024-12-23 18:25:36 - System message received: COMMIT 4353, skipping.
+2024-12-23 18:25:36 - System message received: BEGIN 4354, skipping.
+2024-12-23 18:25:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:36 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182536.csv
+2024-12-23 18:25:36 - Last processed state saved: 2024-12-23 18:25:36
+2024-12-23 18:25:36 - System message received: COMMIT 4354, skipping.
+2024-12-23 18:25:36 - System message received: BEGIN 4355, skipping.
+2024-12-23 18:25:36 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:37 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182536.csv
+2024-12-23 18:25:37 - Last processed state saved: 2024-12-23 18:25:37
+2024-12-23 18:25:37 - System message received: COMMIT 4355, skipping.
+2024-12-23 18:25:37 - System message received: BEGIN 4356, skipping.
+2024-12-23 18:25:37 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:37 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182537.csv
+2024-12-23 18:25:37 - Last processed state saved: 2024-12-23 18:25:37
+2024-12-23 18:25:37 - System message received: COMMIT 4356, skipping.
+2024-12-23 18:25:37 - System message received: BEGIN 4357, skipping.
+2024-12-23 18:25:37 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:37 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182537.csv
+2024-12-23 18:25:37 - Last processed state saved: 2024-12-23 18:25:37
+2024-12-23 18:25:37 - System message received: COMMIT 4357, skipping.
+2024-12-23 18:25:37 - System message received: BEGIN 4358, skipping.
+2024-12-23 18:25:37 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:37 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182537.csv
+2024-12-23 18:25:37 - Last processed state saved: 2024-12-23 18:25:37
+2024-12-23 18:25:37 - System message received: COMMIT 4358, skipping.
+2024-12-23 18:25:37 - System message received: BEGIN 4359, skipping.
+2024-12-23 18:25:37 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:37 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182537.csv
+2024-12-23 18:25:37 - Last processed state saved: 2024-12-23 18:25:37
+2024-12-23 18:25:37 - System message received: COMMIT 4359, skipping.
+2024-12-23 18:25:37 - System message received: BEGIN 4360, skipping.
+2024-12-23 18:25:37 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:38 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182537.csv
+2024-12-23 18:25:38 - Last processed state saved: 2024-12-23 18:25:38
+2024-12-23 18:25:38 - System message received: COMMIT 4360, skipping.
+2024-12-23 18:25:38 - System message received: BEGIN 4361, skipping.
+2024-12-23 18:25:38 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:38 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182538.csv
+2024-12-23 18:25:38 - Last processed state saved: 2024-12-23 18:25:38
+2024-12-23 18:25:38 - System message received: COMMIT 4361, skipping.
+2024-12-23 18:25:38 - System message received: BEGIN 4362, skipping.
+2024-12-23 18:25:38 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:38 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182538.csv
+2024-12-23 18:25:38 - Last processed state saved: 2024-12-23 18:25:38
+2024-12-23 18:25:38 - System message received: COMMIT 4362, skipping.
+2024-12-23 18:25:38 - System message received: BEGIN 4363, skipping.
+2024-12-23 18:25:38 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:38 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182538.csv
+2024-12-23 18:25:38 - Last processed state saved: 2024-12-23 18:25:38
+2024-12-23 18:25:38 - System message received: COMMIT 4363, skipping.
+2024-12-23 18:25:38 - System message received: BEGIN 4364, skipping.
+2024-12-23 18:25:38 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:38 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182538.csv
+2024-12-23 18:25:38 - Last processed state saved: 2024-12-23 18:25:38
+2024-12-23 18:25:38 - System message received: COMMIT 4364, skipping.
+2024-12-23 18:25:38 - System message received: BEGIN 4365, skipping.
+2024-12-23 18:25:38 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:38 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182538.csv
+2024-12-23 18:25:38 - Last processed state saved: 2024-12-23 18:25:38
+2024-12-23 18:25:38 - System message received: COMMIT 4365, skipping.
+2024-12-23 18:25:38 - System message received: BEGIN 4366, skipping.
+2024-12-23 18:25:38 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:39 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182538.csv
+2024-12-23 18:25:39 - Last processed state saved: 2024-12-23 18:25:39
+2024-12-23 18:25:39 - System message received: COMMIT 4366, skipping.
+2024-12-23 18:25:39 - System message received: BEGIN 4367, skipping.
+2024-12-23 18:25:39 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:39 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182539.csv
+2024-12-23 18:25:39 - Last processed state saved: 2024-12-23 18:25:39
+2024-12-23 18:25:39 - System message received: COMMIT 4367, skipping.
+2024-12-23 18:25:39 - System message received: BEGIN 4368, skipping.
+2024-12-23 18:25:39 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:39 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182539.csv
+2024-12-23 18:25:39 - Last processed state saved: 2024-12-23 18:25:39
+2024-12-23 18:25:39 - System message received: COMMIT 4368, skipping.
+2024-12-23 18:25:39 - System message received: BEGIN 4372, skipping.
+2024-12-23 18:25:39 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:40 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182539.csv
+2024-12-23 18:25:40 - Last processed state saved: 2024-12-23 18:25:40
+2024-12-23 18:25:40 - System message received: COMMIT 4372, skipping.
+2024-12-23 18:25:40 - System message received: BEGIN 4373, skipping.
+2024-12-23 18:25:40 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:40 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182540.csv
+2024-12-23 18:25:40 - Last processed state saved: 2024-12-23 18:25:40
+2024-12-23 18:25:40 - System message received: COMMIT 4373, skipping.
+2024-12-23 18:25:40 - System message received: BEGIN 4374, skipping.
+2024-12-23 18:25:40 - System message received: COMMIT 4374, skipping.
+2024-12-23 18:25:40 - System message received: BEGIN 4375, skipping.
+2024-12-23 18:25:40 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:40 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182540.csv
+2024-12-23 18:25:40 - Last processed state saved: 2024-12-23 18:25:40
+2024-12-23 18:25:40 - System message received: COMMIT 4375, skipping.
+2024-12-23 18:25:40 - System message received: BEGIN 4376, skipping.
+2024-12-23 18:25:40 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:41 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182540.csv
+2024-12-23 18:25:41 - Last processed state saved: 2024-12-23 18:25:41
+2024-12-23 18:25:41 - System message received: COMMIT 4376, skipping.
+2024-12-23 18:25:41 - System message received: BEGIN 4377, skipping.
+2024-12-23 18:25:41 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:41 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182541.csv
+2024-12-23 18:25:41 - Last processed state saved: 2024-12-23 18:25:41
+2024-12-23 18:25:41 - System message received: COMMIT 4377, skipping.
+2024-12-23 18:25:41 - System message received: BEGIN 4378, skipping.
+2024-12-23 18:25:41 - System message received: COMMIT 4378, skipping.
+2024-12-23 18:25:41 - System message received: BEGIN 4379, skipping.
+2024-12-23 18:25:41 - Change detected in table: public.admin3. Scheduling backup.
+2024-12-23 18:25:41 - Backup for table 'public.admin3' saved to D:\cdc\services\backup\public.admin3_backup_20241223_182541.csv
+2024-12-23 18:25:41 - Last processed state saved: 2024-12-23 18:25:41
+2024-12-23 18:25:41 - System message received: COMMIT 4379, skipping.
+2024-12-23 18:25:41 - System message received: BEGIN 4381, skipping.
+2024-12-23 18:25:41 - Change detected in table: public.admin3. Scheduling backup.
+2024-12-23 18:25:41 - Backup for table 'public.admin3' saved to D:\cdc\services\backup\public.admin3_backup_20241223_182541.csv
+2024-12-23 18:25:41 - Last processed state saved: 2024-12-23 18:25:41
+2024-12-23 18:25:41 - System message received: COMMIT 4381, skipping.
+2024-12-23 18:25:41 - System message received: BEGIN 4382, skipping.
+2024-12-23 18:25:41 - Change detected in table: public.admin3. Scheduling backup.
+2024-12-23 18:25:41 - Backup for table 'public.admin3' saved to D:\cdc\services\backup\public.admin3_backup_20241223_182541.csv
+2024-12-23 18:25:41 - Last processed state saved: 2024-12-23 18:25:41
+2024-12-23 18:25:41 - System message received: COMMIT 4382, skipping.
+2024-12-23 18:25:41 - System message received: BEGIN 4383, skipping.
+2024-12-23 18:25:41 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:41 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182541.csv
+2024-12-23 18:25:41 - Last processed state saved: 2024-12-23 18:25:41
+2024-12-23 18:25:41 - System message received: COMMIT 4383, skipping.
+2024-12-23 18:25:41 - System message received: BEGIN 4384, skipping.
+2024-12-23 18:25:41 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:42 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182541.csv
+2024-12-23 18:25:42 - Last processed state saved: 2024-12-23 18:25:42
+2024-12-23 18:25:42 - System message received: COMMIT 4384, skipping.
+2024-12-23 18:25:42 - System message received: BEGIN 4385, skipping.
+2024-12-23 18:25:42 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:42 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182542.csv
+2024-12-23 18:25:42 - Last processed state saved: 2024-12-23 18:25:42
+2024-12-23 18:25:42 - System message received: COMMIT 4385, skipping.
+2024-12-23 18:25:42 - System message received: BEGIN 4386, skipping.
+2024-12-23 18:25:42 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:43 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182542.csv
+2024-12-23 18:25:43 - Last processed state saved: 2024-12-23 18:25:43
+2024-12-23 18:25:43 - System message received: COMMIT 4386, skipping.
+2024-12-23 18:25:43 - System message received: BEGIN 4387, skipping.
+2024-12-23 18:25:43 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:43 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182543.csv
+2024-12-23 18:25:43 - Last processed state saved: 2024-12-23 18:25:43
+2024-12-23 18:25:43 - System message received: COMMIT 4387, skipping.
+2024-12-23 18:25:43 - System message received: BEGIN 4388, skipping.
+2024-12-23 18:25:43 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:45 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182543.csv
+2024-12-23 18:25:45 - Last processed state saved: 2024-12-23 18:25:45
+2024-12-23 18:25:45 - System message received: COMMIT 4388, skipping.
+2024-12-23 18:25:45 - System message received: BEGIN 4389, skipping.
+2024-12-23 18:25:45 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:46 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182545.csv
+2024-12-23 18:25:46 - Last processed state saved: 2024-12-23 18:25:46
+2024-12-23 18:25:46 - System message received: COMMIT 4389, skipping.
+2024-12-23 18:25:46 - System message received: BEGIN 4390, skipping.
+2024-12-23 18:25:46 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:47 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182546.csv
+2024-12-23 18:25:47 - Last processed state saved: 2024-12-23 18:25:47
+2024-12-23 18:25:47 - System message received: COMMIT 4390, skipping.
+2024-12-23 18:25:47 - System message received: BEGIN 4391, skipping.
+2024-12-23 18:25:47 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:48 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182547.csv
+2024-12-23 18:25:48 - Last processed state saved: 2024-12-23 18:25:48
+2024-12-23 18:25:48 - System message received: COMMIT 4391, skipping.
+2024-12-23 18:25:48 - System message received: BEGIN 4392, skipping.
+2024-12-23 18:25:48 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:48 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182548.csv
+2024-12-23 18:25:48 - Last processed state saved: 2024-12-23 18:25:48
+2024-12-23 18:25:48 - System message received: COMMIT 4392, skipping.
+2024-12-23 18:25:48 - System message received: BEGIN 4393, skipping.
+2024-12-23 18:25:48 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:49 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182548.csv
+2024-12-23 18:25:49 - Last processed state saved: 2024-12-23 18:25:49
+2024-12-23 18:25:49 - System message received: COMMIT 4393, skipping.
+2024-12-23 18:25:49 - System message received: BEGIN 4394, skipping.
+2024-12-23 18:25:49 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:49 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182549.csv
+2024-12-23 18:25:49 - Last processed state saved: 2024-12-23 18:25:49
+2024-12-23 18:25:49 - System message received: COMMIT 4394, skipping.
+2024-12-23 18:25:49 - System message received: BEGIN 4395, skipping.
+2024-12-23 18:25:49 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:49 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182549.csv
+2024-12-23 18:25:49 - Last processed state saved: 2024-12-23 18:25:49
+2024-12-23 18:25:49 - System message received: COMMIT 4395, skipping.
+2024-12-23 18:25:49 - System message received: BEGIN 4396, skipping.
+2024-12-23 18:25:49 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:49 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182549.csv
+2024-12-23 18:25:49 - Last processed state saved: 2024-12-23 18:25:49
+2024-12-23 18:25:49 - System message received: COMMIT 4396, skipping.
+2024-12-23 18:25:49 - System message received: BEGIN 4397, skipping.
+2024-12-23 18:25:49 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:49 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182549.csv
+2024-12-23 18:25:49 - Last processed state saved: 2024-12-23 18:25:49
+2024-12-23 18:25:49 - System message received: COMMIT 4397, skipping.
+2024-12-23 18:25:49 - System message received: BEGIN 4398, skipping.
+2024-12-23 18:25:49 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:49 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182549.csv
+2024-12-23 18:25:49 - Last processed state saved: 2024-12-23 18:25:49
+2024-12-23 18:25:49 - System message received: COMMIT 4398, skipping.
+2024-12-23 18:25:49 - System message received: BEGIN 4399, skipping.
+2024-12-23 18:25:49 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:50 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182549.csv
+2024-12-23 18:25:50 - Last processed state saved: 2024-12-23 18:25:50
+2024-12-23 18:25:50 - System message received: COMMIT 4399, skipping.
+2024-12-23 18:25:50 - System message received: BEGIN 4400, skipping.
+2024-12-23 18:25:50 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:50 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182550.csv
+2024-12-23 18:25:50 - Last processed state saved: 2024-12-23 18:25:50
+2024-12-23 18:25:50 - System message received: COMMIT 4400, skipping.
+2024-12-23 18:25:50 - System message received: BEGIN 4401, skipping.
+2024-12-23 18:25:50 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:50 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182550.csv
+2024-12-23 18:25:50 - Last processed state saved: 2024-12-23 18:25:50
+2024-12-23 18:25:50 - System message received: COMMIT 4401, skipping.
+2024-12-23 18:25:50 - System message received: BEGIN 4402, skipping.
+2024-12-23 18:25:50 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:50 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182550.csv
+2024-12-23 18:25:50 - Last processed state saved: 2024-12-23 18:25:50
+2024-12-23 18:25:50 - System message received: COMMIT 4402, skipping.
+2024-12-23 18:25:50 - System message received: BEGIN 4403, skipping.
+2024-12-23 18:25:50 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:25:50 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_182550.csv
+2024-12-23 18:25:50 - Last processed state saved: 2024-12-23 18:25:50
+2024-12-23 18:25:50 - System message received: COMMIT 4403, skipping.
+2024-12-23 18:25:50 - System message received: BEGIN 4404, skipping.
+2024-12-23 18:25:50 - Change detected in table: public.sample. Scheduling backup.
+2024-12-23 18:25:51 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241223_182550.csv
+2024-12-23 18:25:51 - Last processed state saved: 2024-12-23 18:25:51
+2024-12-23 18:25:51 - System message received: COMMIT 4404, skipping.
+2024-12-23 18:25:51 - System message received: BEGIN 4405, skipping.
+2024-12-23 18:25:51 - Change detected in table: public.sample. Scheduling backup.
+2024-12-23 18:25:52 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241223_182551.csv
+2024-12-23 18:25:52 - Last processed state saved: 2024-12-23 18:25:52
+2024-12-23 18:25:52 - System message received: COMMIT 4405, skipping.
+2024-12-23 18:25:52 - System message received: BEGIN 4406, skipping.
+2024-12-23 18:25:52 - Change detected in table: public.sample. Scheduling backup.
+2024-12-23 18:25:52 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241223_182552.csv
+2024-12-23 18:25:52 - Last processed state saved: 2024-12-23 18:25:52
+2024-12-23 18:25:52 - System message received: COMMIT 4406, skipping.
+2024-12-23 18:25:52 - System message received: BEGIN 4407, skipping.
+2024-12-23 18:25:52 - Change detected in table: public.sample. Scheduling backup.
+2024-12-23 18:25:52 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241223_182552.csv
+2024-12-23 18:25:52 - Last processed state saved: 2024-12-23 18:25:52
+2024-12-23 18:25:52 - System message received: COMMIT 4407, skipping.
+2024-12-23 18:27:27 - System message received: BEGIN 4409, skipping.
+2024-12-23 18:27:27 - System message received: COMMIT 4409, skipping.
+2024-12-23 18:32:46 - System message received: BEGIN 4411, skipping.
+2024-12-23 18:32:46 - Change detected in table: public.sample. Scheduling backup.
+2024-12-23 18:32:46 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241223_183246.csv
+2024-12-23 18:32:46 - Last processed state saved: 2024-12-23 18:32:46
+2024-12-23 18:32:46 - System message received: COMMIT 4411, skipping.
+2024-12-23 18:36:19 - System message received: BEGIN 4412, skipping.
+2024-12-23 18:36:19 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-23 18:36:19 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241223_183619.csv
+2024-12-23 18:36:19 - Last processed state saved: 2024-12-23 18:36:19
+2024-12-23 18:36:19 - System message received: COMMIT 4412, skipping.
+2024-12-24 12:28:54 - Replication slot 'vstatetest_slot' already exists.
+2024-12-24 12:28:54 - Listening for changes...
+2024-12-24 12:28:54 - System message received: BEGIN 4313, skipping.
+2024-12-24 12:28:54 - Change detected in table: public.sample. Scheduling backup.
+2024-12-24 12:28:55 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241224_122854.csv
+2024-12-24 12:28:55 - Last processed state saved: 2024-12-24 12:28:55
+2024-12-24 12:28:55 - System message received: COMMIT 4313, skipping.
+2024-12-24 12:28:55 - System message received: BEGIN 4314, skipping.
+2024-12-24 12:28:55 - System message received: COMMIT 4314, skipping.
+2024-12-24 12:28:55 - System message received: BEGIN 4315, skipping.
+2024-12-24 12:28:55 - Change detected in table: public.admin1. Scheduling backup.
+2024-12-24 12:28:55 - Backup for table 'public.admin1' saved to D:\cdc\services\backup\public.admin1_backup_20241224_122855.csv
+2024-12-24 12:28:55 - Last processed state saved: 2024-12-24 12:28:55
+2024-12-24 12:28:55 - System message received: COMMIT 4315, skipping.
+2024-12-24 12:28:55 - System message received: BEGIN 4316, skipping.
+2024-12-24 12:28:55 - Change detected in table: public.admin1. Scheduling backup.
+2024-12-24 12:28:55 - Backup for table 'public.admin1' saved to D:\cdc\services\backup\public.admin1_backup_20241224_122855.csv
+2024-12-24 12:28:55 - Last processed state saved: 2024-12-24 12:28:55
+2024-12-24 12:28:55 - System message received: COMMIT 4316, skipping.
+2024-12-24 12:28:55 - System message received: BEGIN 4317, skipping.
+2024-12-24 12:28:55 - Change detected in table: public.admin1. Scheduling backup.
+2024-12-24 12:28:55 - Backup for table 'public.admin1' saved to D:\cdc\services\backup\public.admin1_backup_20241224_122855.csv
+2024-12-24 12:28:55 - Last processed state saved: 2024-12-24 12:28:55
+2024-12-24 12:28:55 - System message received: COMMIT 4317, skipping.
+2024-12-24 12:28:55 - System message received: BEGIN 4318, skipping.
+2024-12-24 12:28:55 - System message received: COMMIT 4318, skipping.
+2024-12-24 12:28:55 - System message received: BEGIN 4319, skipping.
+2024-12-24 12:28:55 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:55 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122855.csv
+2024-12-24 12:28:55 - Last processed state saved: 2024-12-24 12:28:55
+2024-12-24 12:28:55 - System message received: COMMIT 4319, skipping.
+2024-12-24 12:28:55 - System message received: BEGIN 4320, skipping.
+2024-12-24 12:28:55 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:55 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122855.csv
+2024-12-24 12:28:55 - Last processed state saved: 2024-12-24 12:28:55
+2024-12-24 12:28:55 - System message received: COMMIT 4320, skipping.
+2024-12-24 12:28:55 - System message received: BEGIN 4321, skipping.
+2024-12-24 12:28:55 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:55 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122855.csv
+2024-12-24 12:28:55 - Last processed state saved: 2024-12-24 12:28:55
+2024-12-24 12:28:55 - System message received: COMMIT 4321, skipping.
+2024-12-24 12:28:55 - System message received: BEGIN 4322, skipping.
+2024-12-24 12:28:55 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:55 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122855.csv
+2024-12-24 12:28:55 - Last processed state saved: 2024-12-24 12:28:55
+2024-12-24 12:28:55 - System message received: COMMIT 4322, skipping.
+2024-12-24 12:28:55 - System message received: BEGIN 4323, skipping.
+2024-12-24 12:28:55 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:56 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122855.csv
+2024-12-24 12:28:56 - Last processed state saved: 2024-12-24 12:28:56
+2024-12-24 12:28:56 - System message received: COMMIT 4323, skipping.
+2024-12-24 12:28:56 - System message received: BEGIN 4324, skipping.
+2024-12-24 12:28:56 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:56 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122856.csv
+2024-12-24 12:28:56 - Last processed state saved: 2024-12-24 12:28:56
+2024-12-24 12:28:56 - System message received: COMMIT 4324, skipping.
+2024-12-24 12:28:56 - System message received: BEGIN 4325, skipping.
+2024-12-24 12:28:56 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:56 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122856.csv
+2024-12-24 12:28:56 - Last processed state saved: 2024-12-24 12:28:56
+2024-12-24 12:28:56 - System message received: COMMIT 4325, skipping.
+2024-12-24 12:28:56 - System message received: BEGIN 4326, skipping.
+2024-12-24 12:28:56 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:56 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122856.csv
+2024-12-24 12:28:56 - Last processed state saved: 2024-12-24 12:28:56
+2024-12-24 12:28:56 - System message received: COMMIT 4326, skipping.
+2024-12-24 12:28:56 - System message received: BEGIN 4327, skipping.
+2024-12-24 12:28:56 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:56 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122856.csv
+2024-12-24 12:28:56 - Last processed state saved: 2024-12-24 12:28:56
+2024-12-24 12:28:56 - System message received: COMMIT 4327, skipping.
+2024-12-24 12:28:56 - System message received: BEGIN 4328, skipping.
+2024-12-24 12:28:56 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:56 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122856.csv
+2024-12-24 12:28:56 - Last processed state saved: 2024-12-24 12:28:56
+2024-12-24 12:28:56 - System message received: COMMIT 4328, skipping.
+2024-12-24 12:28:56 - System message received: BEGIN 4329, skipping.
+2024-12-24 12:28:56 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:56 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122856.csv
+2024-12-24 12:28:56 - Last processed state saved: 2024-12-24 12:28:56
+2024-12-24 12:28:56 - System message received: COMMIT 4329, skipping.
+2024-12-24 12:28:56 - System message received: BEGIN 4330, skipping.
+2024-12-24 12:28:56 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:56 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122856.csv
+2024-12-24 12:28:56 - Last processed state saved: 2024-12-24 12:28:56
+2024-12-24 12:28:56 - System message received: COMMIT 4330, skipping.
+2024-12-24 12:28:56 - System message received: BEGIN 4331, skipping.
+2024-12-24 12:28:56 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:56 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122856.csv
+2024-12-24 12:28:56 - Last processed state saved: 2024-12-24 12:28:56
+2024-12-24 12:28:56 - System message received: COMMIT 4331, skipping.
+2024-12-24 12:28:56 - System message received: BEGIN 4332, skipping.
+2024-12-24 12:28:56 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:56 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122856.csv
+2024-12-24 12:28:56 - Last processed state saved: 2024-12-24 12:28:56
+2024-12-24 12:28:56 - System message received: COMMIT 4332, skipping.
+2024-12-24 12:28:56 - System message received: BEGIN 4333, skipping.
+2024-12-24 12:28:56 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:56 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122856.csv
+2024-12-24 12:28:56 - Last processed state saved: 2024-12-24 12:28:56
+2024-12-24 12:28:56 - System message received: COMMIT 4333, skipping.
+2024-12-24 12:28:56 - System message received: BEGIN 4334, skipping.
+2024-12-24 12:28:56 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:57 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122856.csv
+2024-12-24 12:28:57 - Last processed state saved: 2024-12-24 12:28:57
+2024-12-24 12:28:57 - System message received: COMMIT 4334, skipping.
+2024-12-24 12:28:57 - System message received: BEGIN 4335, skipping.
+2024-12-24 12:28:57 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:57 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122857.csv
+2024-12-24 12:28:57 - Last processed state saved: 2024-12-24 12:28:57
+2024-12-24 12:28:57 - System message received: COMMIT 4335, skipping.
+2024-12-24 12:28:57 - System message received: BEGIN 4336, skipping.
+2024-12-24 12:28:57 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:57 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122857.csv
+2024-12-24 12:28:57 - Last processed state saved: 2024-12-24 12:28:57
+2024-12-24 12:28:57 - System message received: COMMIT 4336, skipping.
+2024-12-24 12:28:57 - System message received: BEGIN 4337, skipping.
+2024-12-24 12:28:57 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:57 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122857.csv
+2024-12-24 12:28:57 - Last processed state saved: 2024-12-24 12:28:57
+2024-12-24 12:28:57 - System message received: COMMIT 4337, skipping.
+2024-12-24 12:28:57 - System message received: BEGIN 4338, skipping.
+2024-12-24 12:28:57 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:57 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122857.csv
+2024-12-24 12:28:57 - Last processed state saved: 2024-12-24 12:28:57
+2024-12-24 12:28:57 - System message received: COMMIT 4338, skipping.
+2024-12-24 12:28:57 - System message received: BEGIN 4339, skipping.
+2024-12-24 12:28:57 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:57 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122857.csv
+2024-12-24 12:28:57 - Last processed state saved: 2024-12-24 12:28:57
+2024-12-24 12:28:57 - System message received: COMMIT 4339, skipping.
+2024-12-24 12:28:57 - System message received: BEGIN 4340, skipping.
+2024-12-24 12:28:57 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:57 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122857.csv
+2024-12-24 12:28:57 - Last processed state saved: 2024-12-24 12:28:57
+2024-12-24 12:28:57 - System message received: COMMIT 4340, skipping.
+2024-12-24 12:28:57 - System message received: BEGIN 4341, skipping.
+2024-12-24 12:28:57 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:57 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122857.csv
+2024-12-24 12:28:57 - Last processed state saved: 2024-12-24 12:28:57
+2024-12-24 12:28:57 - System message received: COMMIT 4341, skipping.
+2024-12-24 12:28:57 - System message received: BEGIN 4342, skipping.
+2024-12-24 12:28:57 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:58 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122857.csv
+2024-12-24 12:28:58 - Last processed state saved: 2024-12-24 12:28:58
+2024-12-24 12:28:58 - System message received: COMMIT 4342, skipping.
+2024-12-24 12:28:58 - System message received: BEGIN 4343, skipping.
+2024-12-24 12:28:58 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:58 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122858.csv
+2024-12-24 12:28:58 - Last processed state saved: 2024-12-24 12:28:58
+2024-12-24 12:28:58 - System message received: COMMIT 4343, skipping.
+2024-12-24 12:28:58 - System message received: BEGIN 4344, skipping.
+2024-12-24 12:28:58 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:58 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122858.csv
+2024-12-24 12:28:58 - Last processed state saved: 2024-12-24 12:28:58
+2024-12-24 12:28:58 - System message received: COMMIT 4344, skipping.
+2024-12-24 12:28:58 - System message received: BEGIN 4345, skipping.
+2024-12-24 12:28:58 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:58 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122858.csv
+2024-12-24 12:28:58 - Last processed state saved: 2024-12-24 12:28:58
+2024-12-24 12:28:58 - System message received: COMMIT 4345, skipping.
+2024-12-24 12:28:58 - System message received: BEGIN 4346, skipping.
+2024-12-24 12:28:58 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:58 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122858.csv
+2024-12-24 12:28:58 - Last processed state saved: 2024-12-24 12:28:58
+2024-12-24 12:28:58 - System message received: COMMIT 4346, skipping.
+2024-12-24 12:28:58 - System message received: BEGIN 4347, skipping.
+2024-12-24 12:28:58 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:58 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122858.csv
+2024-12-24 12:28:58 - Last processed state saved: 2024-12-24 12:28:58
+2024-12-24 12:28:58 - System message received: COMMIT 4347, skipping.
+2024-12-24 12:28:58 - System message received: BEGIN 4348, skipping.
+2024-12-24 12:28:58 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:58 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122858.csv
+2024-12-24 12:28:58 - Last processed state saved: 2024-12-24 12:28:58
+2024-12-24 12:28:58 - System message received: COMMIT 4348, skipping.
+2024-12-24 12:28:58 - System message received: BEGIN 4349, skipping.
+2024-12-24 12:28:58 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:58 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122858.csv
+2024-12-24 12:28:58 - Last processed state saved: 2024-12-24 12:28:58
+2024-12-24 12:28:58 - System message received: COMMIT 4349, skipping.
+2024-12-24 12:28:58 - System message received: BEGIN 4350, skipping.
+2024-12-24 12:28:58 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:58 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122858.csv
+2024-12-24 12:28:58 - Last processed state saved: 2024-12-24 12:28:58
+2024-12-24 12:28:58 - System message received: COMMIT 4350, skipping.
+2024-12-24 12:28:58 - System message received: BEGIN 4351, skipping.
+2024-12-24 12:28:58 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:59 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122858.csv
+2024-12-24 12:28:59 - Last processed state saved: 2024-12-24 12:28:59
+2024-12-24 12:28:59 - System message received: COMMIT 4351, skipping.
+2024-12-24 12:28:59 - System message received: BEGIN 4352, skipping.
+2024-12-24 12:28:59 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:59 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122859.csv
+2024-12-24 12:28:59 - Last processed state saved: 2024-12-24 12:28:59
+2024-12-24 12:28:59 - System message received: COMMIT 4352, skipping.
+2024-12-24 12:28:59 - System message received: BEGIN 4353, skipping.
+2024-12-24 12:28:59 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:59 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122859.csv
+2024-12-24 12:28:59 - Last processed state saved: 2024-12-24 12:28:59
+2024-12-24 12:28:59 - System message received: COMMIT 4353, skipping.
+2024-12-24 12:28:59 - System message received: BEGIN 4354, skipping.
+2024-12-24 12:28:59 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:59 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122859.csv
+2024-12-24 12:28:59 - Last processed state saved: 2024-12-24 12:28:59
+2024-12-24 12:28:59 - System message received: COMMIT 4354, skipping.
+2024-12-24 12:28:59 - System message received: BEGIN 4355, skipping.
+2024-12-24 12:28:59 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:59 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122859.csv
+2024-12-24 12:28:59 - Last processed state saved: 2024-12-24 12:28:59
+2024-12-24 12:28:59 - System message received: COMMIT 4355, skipping.
+2024-12-24 12:28:59 - System message received: BEGIN 4356, skipping.
+2024-12-24 12:28:59 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:59 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122859.csv
+2024-12-24 12:28:59 - Last processed state saved: 2024-12-24 12:28:59
+2024-12-24 12:28:59 - System message received: COMMIT 4356, skipping.
+2024-12-24 12:28:59 - System message received: BEGIN 4357, skipping.
+2024-12-24 12:28:59 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:59 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122859.csv
+2024-12-24 12:28:59 - Last processed state saved: 2024-12-24 12:28:59
+2024-12-24 12:28:59 - System message received: COMMIT 4357, skipping.
+2024-12-24 12:28:59 - System message received: BEGIN 4358, skipping.
+2024-12-24 12:28:59 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:59 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122859.csv
+2024-12-24 12:28:59 - Last processed state saved: 2024-12-24 12:28:59
+2024-12-24 12:28:59 - System message received: COMMIT 4358, skipping.
+2024-12-24 12:28:59 - System message received: BEGIN 4359, skipping.
+2024-12-24 12:28:59 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:28:59 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122859.csv
+2024-12-24 12:28:59 - Last processed state saved: 2024-12-24 12:28:59
+2024-12-24 12:28:59 - System message received: COMMIT 4359, skipping.
+2024-12-24 12:28:59 - System message received: BEGIN 4360, skipping.
+2024-12-24 12:28:59 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:00 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122859.csv
+2024-12-24 12:29:00 - Last processed state saved: 2024-12-24 12:29:00
+2024-12-24 12:29:00 - System message received: COMMIT 4360, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4361, skipping.
+2024-12-24 12:29:00 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:00 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122900.csv
+2024-12-24 12:29:00 - Last processed state saved: 2024-12-24 12:29:00
+2024-12-24 12:29:00 - System message received: COMMIT 4361, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4362, skipping.
+2024-12-24 12:29:00 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:00 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122900.csv
+2024-12-24 12:29:00 - Last processed state saved: 2024-12-24 12:29:00
+2024-12-24 12:29:00 - System message received: COMMIT 4362, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4363, skipping.
+2024-12-24 12:29:00 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:00 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122900.csv
+2024-12-24 12:29:00 - Last processed state saved: 2024-12-24 12:29:00
+2024-12-24 12:29:00 - System message received: COMMIT 4363, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4364, skipping.
+2024-12-24 12:29:00 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:00 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122900.csv
+2024-12-24 12:29:00 - Last processed state saved: 2024-12-24 12:29:00
+2024-12-24 12:29:00 - System message received: COMMIT 4364, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4365, skipping.
+2024-12-24 12:29:00 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:00 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122900.csv
+2024-12-24 12:29:00 - Last processed state saved: 2024-12-24 12:29:00
+2024-12-24 12:29:00 - System message received: COMMIT 4365, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4366, skipping.
+2024-12-24 12:29:00 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:00 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122900.csv
+2024-12-24 12:29:00 - Last processed state saved: 2024-12-24 12:29:00
+2024-12-24 12:29:00 - System message received: COMMIT 4366, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4367, skipping.
+2024-12-24 12:29:00 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:00 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122900.csv
+2024-12-24 12:29:00 - Last processed state saved: 2024-12-24 12:29:00
+2024-12-24 12:29:00 - System message received: COMMIT 4367, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4368, skipping.
+2024-12-24 12:29:00 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:00 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122900.csv
+2024-12-24 12:29:00 - Last processed state saved: 2024-12-24 12:29:00
+2024-12-24 12:29:00 - System message received: COMMIT 4368, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4372, skipping.
+2024-12-24 12:29:00 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:00 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122900.csv
+2024-12-24 12:29:00 - Last processed state saved: 2024-12-24 12:29:00
+2024-12-24 12:29:00 - System message received: COMMIT 4372, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4373, skipping.
+2024-12-24 12:29:00 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:00 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122900.csv
+2024-12-24 12:29:00 - Last processed state saved: 2024-12-24 12:29:00
+2024-12-24 12:29:00 - System message received: COMMIT 4373, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4374, skipping.
+2024-12-24 12:29:00 - System message received: COMMIT 4374, skipping.
+2024-12-24 12:29:00 - System message received: BEGIN 4375, skipping.
+2024-12-24 12:29:00 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:01 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122900.csv
+2024-12-24 12:29:01 - Last processed state saved: 2024-12-24 12:29:01
+2024-12-24 12:29:01 - System message received: COMMIT 4375, skipping.
+2024-12-24 12:29:01 - System message received: BEGIN 4376, skipping.
+2024-12-24 12:29:01 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:01 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122901.csv
+2024-12-24 12:29:01 - Last processed state saved: 2024-12-24 12:29:01
+2024-12-24 12:29:01 - System message received: COMMIT 4376, skipping.
+2024-12-24 12:29:01 - System message received: BEGIN 4377, skipping.
+2024-12-24 12:29:01 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:01 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122901.csv
+2024-12-24 12:29:01 - Last processed state saved: 2024-12-24 12:29:01
+2024-12-24 12:29:01 - System message received: COMMIT 4377, skipping.
+2024-12-24 12:29:01 - System message received: BEGIN 4378, skipping.
+2024-12-24 12:29:01 - System message received: COMMIT 4378, skipping.
+2024-12-24 12:29:01 - System message received: BEGIN 4379, skipping.
+2024-12-24 12:29:01 - Change detected in table: public.admin3. Scheduling backup.
+2024-12-24 12:29:01 - Backup for table 'public.admin3' saved to D:\cdc\services\backup\public.admin3_backup_20241224_122901.csv
+2024-12-24 12:29:01 - Last processed state saved: 2024-12-24 12:29:01
+2024-12-24 12:29:01 - System message received: COMMIT 4379, skipping.
+2024-12-24 12:29:01 - System message received: BEGIN 4381, skipping.
+2024-12-24 12:29:01 - Change detected in table: public.admin3. Scheduling backup.
+2024-12-24 12:29:01 - Backup for table 'public.admin3' saved to D:\cdc\services\backup\public.admin3_backup_20241224_122901.csv
+2024-12-24 12:29:01 - Last processed state saved: 2024-12-24 12:29:01
+2024-12-24 12:29:01 - System message received: COMMIT 4381, skipping.
+2024-12-24 12:29:01 - System message received: BEGIN 4382, skipping.
+2024-12-24 12:29:01 - Change detected in table: public.admin3. Scheduling backup.
+2024-12-24 12:29:01 - Backup for table 'public.admin3' saved to D:\cdc\services\backup\public.admin3_backup_20241224_122901.csv
+2024-12-24 12:29:01 - Last processed state saved: 2024-12-24 12:29:01
+2024-12-24 12:29:01 - System message received: COMMIT 4382, skipping.
+2024-12-24 12:29:01 - System message received: BEGIN 4383, skipping.
+2024-12-24 12:29:01 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:01 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122901.csv
+2024-12-24 12:29:01 - Last processed state saved: 2024-12-24 12:29:01
+2024-12-24 12:29:01 - System message received: COMMIT 4383, skipping.
+2024-12-24 12:29:01 - System message received: BEGIN 4384, skipping.
+2024-12-24 12:29:01 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:01 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122901.csv
+2024-12-24 12:29:01 - Last processed state saved: 2024-12-24 12:29:01
+2024-12-24 12:29:01 - System message received: COMMIT 4384, skipping.
+2024-12-24 12:29:01 - System message received: BEGIN 4385, skipping.
+2024-12-24 12:29:01 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:01 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122901.csv
+2024-12-24 12:29:01 - Last processed state saved: 2024-12-24 12:29:01
+2024-12-24 12:29:01 - System message received: COMMIT 4385, skipping.
+2024-12-24 12:29:01 - System message received: BEGIN 4386, skipping.
+2024-12-24 12:29:01 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:02 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122901.csv
+2024-12-24 12:29:02 - Last processed state saved: 2024-12-24 12:29:02
+2024-12-24 12:29:02 - System message received: COMMIT 4386, skipping.
+2024-12-24 12:29:02 - System message received: BEGIN 4387, skipping.
+2024-12-24 12:29:02 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:02 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122902.csv
+2024-12-24 12:29:02 - Last processed state saved: 2024-12-24 12:29:02
+2024-12-24 12:29:02 - System message received: COMMIT 4387, skipping.
+2024-12-24 12:29:02 - System message received: BEGIN 4388, skipping.
+2024-12-24 12:29:02 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:02 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122902.csv
+2024-12-24 12:29:02 - Last processed state saved: 2024-12-24 12:29:02
+2024-12-24 12:29:02 - System message received: COMMIT 4388, skipping.
+2024-12-24 12:29:02 - System message received: BEGIN 4389, skipping.
+2024-12-24 12:29:02 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:02 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122902.csv
+2024-12-24 12:29:02 - Last processed state saved: 2024-12-24 12:29:02
+2024-12-24 12:29:02 - System message received: COMMIT 4389, skipping.
+2024-12-24 12:29:02 - System message received: BEGIN 4390, skipping.
+2024-12-24 12:29:02 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:02 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122902.csv
+2024-12-24 12:29:02 - Last processed state saved: 2024-12-24 12:29:02
+2024-12-24 12:29:02 - System message received: COMMIT 4390, skipping.
+2024-12-24 12:29:02 - System message received: BEGIN 4391, skipping.
+2024-12-24 12:29:02 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:02 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122902.csv
+2024-12-24 12:29:02 - Last processed state saved: 2024-12-24 12:29:02
+2024-12-24 12:29:02 - System message received: COMMIT 4391, skipping.
+2024-12-24 12:29:02 - System message received: BEGIN 4392, skipping.
+2024-12-24 12:29:02 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:02 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122902.csv
+2024-12-24 12:29:02 - Last processed state saved: 2024-12-24 12:29:02
+2024-12-24 12:29:02 - System message received: COMMIT 4392, skipping.
+2024-12-24 12:29:02 - System message received: BEGIN 4393, skipping.
+2024-12-24 12:29:02 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:02 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122902.csv
+2024-12-24 12:29:02 - Last processed state saved: 2024-12-24 12:29:02
+2024-12-24 12:29:02 - System message received: COMMIT 4393, skipping.
+2024-12-24 12:29:02 - System message received: BEGIN 4394, skipping.
+2024-12-24 12:29:02 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:02 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122902.csv
+2024-12-24 12:29:02 - Last processed state saved: 2024-12-24 12:29:02
+2024-12-24 12:29:02 - System message received: COMMIT 4394, skipping.
+2024-12-24 12:29:02 - System message received: BEGIN 4395, skipping.
+2024-12-24 12:29:02 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:02 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122902.csv
+2024-12-24 12:29:02 - Last processed state saved: 2024-12-24 12:29:02
+2024-12-24 12:29:02 - System message received: COMMIT 4395, skipping.
+2024-12-24 12:29:02 - System message received: BEGIN 4396, skipping.
+2024-12-24 12:29:02 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:03 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122902.csv
+2024-12-24 12:29:03 - Last processed state saved: 2024-12-24 12:29:03
+2024-12-24 12:29:03 - System message received: COMMIT 4396, skipping.
+2024-12-24 12:29:03 - System message received: BEGIN 4397, skipping.
+2024-12-24 12:29:03 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:03 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122903.csv
+2024-12-24 12:29:03 - Last processed state saved: 2024-12-24 12:29:03
+2024-12-24 12:29:03 - System message received: COMMIT 4397, skipping.
+2024-12-24 12:29:03 - System message received: BEGIN 4398, skipping.
+2024-12-24 12:29:03 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:03 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122903.csv
+2024-12-24 12:29:03 - Last processed state saved: 2024-12-24 12:29:03
+2024-12-24 12:29:03 - System message received: COMMIT 4398, skipping.
+2024-12-24 12:29:03 - System message received: BEGIN 4399, skipping.
+2024-12-24 12:29:03 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:03 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122903.csv
+2024-12-24 12:29:03 - Last processed state saved: 2024-12-24 12:29:03
+2024-12-24 12:29:03 - System message received: COMMIT 4399, skipping.
+2024-12-24 12:29:03 - System message received: BEGIN 4400, skipping.
+2024-12-24 12:29:03 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:03 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122903.csv
+2024-12-24 12:29:03 - Last processed state saved: 2024-12-24 12:29:03
+2024-12-24 12:29:03 - System message received: COMMIT 4400, skipping.
+2024-12-24 12:29:03 - System message received: BEGIN 4401, skipping.
+2024-12-24 12:29:03 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:03 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122903.csv
+2024-12-24 12:29:03 - Last processed state saved: 2024-12-24 12:29:03
+2024-12-24 12:29:03 - System message received: COMMIT 4401, skipping.
+2024-12-24 12:29:03 - System message received: BEGIN 4402, skipping.
+2024-12-24 12:29:03 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:03 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122903.csv
+2024-12-24 12:29:03 - Last processed state saved: 2024-12-24 12:29:03
+2024-12-24 12:29:03 - System message received: COMMIT 4402, skipping.
+2024-12-24 12:29:03 - System message received: BEGIN 4403, skipping.
+2024-12-24 12:29:03 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:03 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122903.csv
+2024-12-24 12:29:03 - Last processed state saved: 2024-12-24 12:29:03
+2024-12-24 12:29:03 - System message received: COMMIT 4403, skipping.
+2024-12-24 12:29:03 - System message received: BEGIN 4404, skipping.
+2024-12-24 12:29:03 - Change detected in table: public.sample. Scheduling backup.
+2024-12-24 12:29:03 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241224_122903.csv
+2024-12-24 12:29:03 - Last processed state saved: 2024-12-24 12:29:03
+2024-12-24 12:29:03 - System message received: COMMIT 4404, skipping.
+2024-12-24 12:29:03 - System message received: BEGIN 4405, skipping.
+2024-12-24 12:29:03 - Change detected in table: public.sample. Scheduling backup.
+2024-12-24 12:29:03 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241224_122903.csv
+2024-12-24 12:29:03 - Last processed state saved: 2024-12-24 12:29:03
+2024-12-24 12:29:03 - System message received: COMMIT 4405, skipping.
+2024-12-24 12:29:03 - System message received: BEGIN 4406, skipping.
+2024-12-24 12:29:03 - Change detected in table: public.sample. Scheduling backup.
+2024-12-24 12:29:04 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241224_122903.csv
+2024-12-24 12:29:04 - Last processed state saved: 2024-12-24 12:29:04
+2024-12-24 12:29:04 - System message received: COMMIT 4406, skipping.
+2024-12-24 12:29:04 - System message received: BEGIN 4407, skipping.
+2024-12-24 12:29:04 - Change detected in table: public.sample. Scheduling backup.
+2024-12-24 12:29:04 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241224_122904.csv
+2024-12-24 12:29:04 - Last processed state saved: 2024-12-24 12:29:04
+2024-12-24 12:29:04 - System message received: COMMIT 4407, skipping.
+2024-12-24 12:29:04 - System message received: BEGIN 4409, skipping.
+2024-12-24 12:29:04 - System message received: COMMIT 4409, skipping.
+2024-12-24 12:29:04 - System message received: BEGIN 4411, skipping.
+2024-12-24 12:29:04 - Change detected in table: public.sample. Scheduling backup.
+2024-12-24 12:29:04 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241224_122904.csv
+2024-12-24 12:29:04 - Last processed state saved: 2024-12-24 12:29:04
+2024-12-24 12:29:04 - System message received: COMMIT 4411, skipping.
+2024-12-24 12:29:04 - System message received: BEGIN 4412, skipping.
+2024-12-24 12:29:04 - Change detected in table: public.admin2. Scheduling backup.
+2024-12-24 12:29:04 - Backup for table 'public.admin2' saved to D:\cdc\services\backup\public.admin2_backup_20241224_122904.csv
+2024-12-24 12:29:04 - Last processed state saved: 2024-12-24 12:29:04
+2024-12-24 12:29:04 - System message received: COMMIT 4412, skipping.
+2024-12-24 12:32:37 - System message received: BEGIN 4413, skipping.
+2024-12-24 12:32:37 - System message received: COMMIT 4413, skipping.
+2024-12-24 12:38:13 - System message received: BEGIN 4414, skipping.
+2024-12-24 12:38:13 - System message received: COMMIT 4414, skipping.
+2024-12-24 12:40:49 - System message received: BEGIN 4415, skipping.
+2024-12-24 12:40:49 - Change detected in table: public.sample. Scheduling backup.
+2024-12-24 12:40:49 - Backup for table 'public.sample' saved to D:\cdc\services\backup\public.sample_backup_20241224_124049.csv
+2024-12-24 12:40:49 - Last processed state saved: 2024-12-24 12:40:49
+2024-12-24 12:40:49 - System message received: COMMIT 4415, skipping.
+2024-12-24 12:41:47 - System message received: BEGIN 4416, skipping.
+2024-12-24 12:41:47 - Change detected in table: public.salaries. Scheduling backup.
+2024-12-24 12:41:47 - Backup for table 'public.salaries' saved to D:\cdc\services\backup\public.salaries_backup_20241224_124147.csv
+2024-12-24 12:41:47 - Last processed state saved: 2024-12-24 12:41:47
+2024-12-24 12:41:47 - System message received: COMMIT 4416, skipping.

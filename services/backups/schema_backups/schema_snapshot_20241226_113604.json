@@ -1,0 +1,90 @@
+{
+    "admin1": [
+        {
+            "column_name": "id",
+            "data_type": "integer",
+            "is_nullable": "YES",
+            "column_default": null
+        },
+        {
+            "column_name": "name",
+            "data_type": "character varying",
+            "is_nullable": "YES",
+            "column_default": null
+        }
+    ],
+    "admin2": [
+        {
+            "column_name": "id",
+            "data_type": "integer",
+            "is_nullable": "YES",
+            "column_default": null
+        },
+        {
+            "column_name": "name",
+            "data_type": "character varying",
+            "is_nullable": "YES",
+            "column_default": null
+        }
+    ],
+    "admin3": [
+        {
+            "column_name": "id",
+            "data_type": "integer",
+            "is_nullable": "NO",
+            "column_default": null
+        },
+        {
+            "column_name": "name",
+            "data_type": "character varying",
+            "is_nullable": "YES",
+            "column_default": null
+        }
+    ],
+    "salaries": [
+        {
+            "column_name": "sal_id",
+            "data_type": "integer",
+            "is_nullable": "NO",
+            "column_default": null
+        },
+        {
+            "column_name": "salary",
+            "data_type": "double precision",
+            "is_nullable": "YES",
+            "column_default": null
+        }
+    ],
+    "sample": [
+        {
+            "column_name": "id",
+            "data_type": "integer",
+            "is_nullable": "YES",
+            "column_default": null
+        },
+        {
+            "column_name": "name",
+            "data_type": "character varying",
+            "is_nullable": "YES",
+            "column_default": null
+        },
+        {
+            "column_name": "designation",
+            "data_type": "character varying",
+            "is_nullable": "YES",
+            "column_default": null
+        },
+        {
+            "column_name": "dept",
+            "data_type": "character varying",
+            "is_nullable": "YES",
+            "column_default": null
+        },
+        {
+            "column_name": "sal_id",
+            "data_type": "integer",
+            "is_nullable": "YES",
+            "column_default": null
+        }
+    ]
+}

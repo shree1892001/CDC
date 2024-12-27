@@ -1,0 +1,303 @@
+BEGIN 4472
+table public.admin3: DELETE: id[integer]:1
+COMMIT 4472
+BEGIN 4473
+COMMIT 4473
+BEGIN 4474
+table public.admin2: DELETE: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: DELETE: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: DELETE: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: DELETE: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: DELETE: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: DELETE: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: DELETE: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: DELETE: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: DELETE: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: DELETE: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: DELETE: id[integer]:7 name[character varying]:'Prathamesh'
+COMMIT 4474
+BEGIN 4476
+table public.sample: INSERT: id[integer]:17 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+COMMIT 4476
+BEGIN 4477
+table public.sample: INSERT: id[integer]:19 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+COMMIT 4477
+BEGIN 4478
+table public.sample: INSERT: id[integer]:19 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+COMMIT 4478
+BEGIN 4479
+table public.sample: INSERT: id[integer]:20 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+COMMIT 4479
+BEGIN 4480
+table public.sample: INSERT: id[integer]:21 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+COMMIT 4480
+BEGIN 4481
+table public.sample: INSERT: id[integer]:212 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+COMMIT 4481
+BEGIN 4482
+table public.sample: INSERT: id[integer]:2123 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+COMMIT 4482
+BEGIN 4483
+table public.sample: INSERT: id[integer]:21234 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+COMMIT 4483
+BEGIN 4484
+table public.sample: INSERT: id[integer]:212345 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+COMMIT 4484
+BEGIN 4492
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'
+table public.admin1: INSERT: id[integer]:4 name[character varying]:'Sanket'
+table public.admin1: INSERT: id[integer]:4 name[character varying]:'Sanket'
+table public.admin1: INSERT: id[integer]:4 name[character varying]:'Sanket'
+COMMIT 4492
+BEGIN 4493
+table public.admin2: INSERT: id[integer]:2 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: INSERT: id[integer]:10 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:10 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:103 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:9 name[character varying]:'Saina'
+table public.admin2: INSERT: id[integer]:9 name[character varying]:'Saina'
+table public.admin2: INSERT: id[integer]:9 name[character varying]:'Saina'
+COMMIT 4493
+BEGIN 4496
+table public.sample: INSERT: id[integer]:1 name[character varying]:'Shreyas' designation[character varying]:'Python Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:4 name[character varying]:'Ranjan' designation[character varying]:'Frontend Dev' dept[character varying]:'IT' sal_id[integer]:null
+table public.sample: INSERT: id[integer]:5 name[character varying]:'Prathamesh' designation[character varying]:'java developer' dept[character varying]:'it' sal_id[integer]:1
+table public.sample: INSERT: id[integer]:1 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:3
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:4
+table public.sample: INSERT: id[integer]:4 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:5
+COMMIT 4496
+BEGIN 4499
+COMMIT 4499
+BEGIN 4548
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'
+table public.admin1: INSERT: id[integer]:4 name[character varying]:'Sanket'
+table public.admin1: INSERT: id[integer]:4 name[character varying]:'Sanket'
+table public.admin1: INSERT: id[integer]:4 name[character varying]:'Sanket'
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:1 name[character varying]:'Shreyas'
+table public.admin1: INSERT: id[integer]:2 name[character varying]:'Prathamesh'
+table public.admin1: INSERT: id[integer]:4 name[character varying]:'Sanket'
+table public.admin1: INSERT: id[integer]:4 name[character varying]:'Sanket'
+table public.admin1: INSERT: id[integer]:4 name[character varying]:'Sanket'
+COMMIT 4548
+BEGIN 4549
+table public.admin2: INSERT: id[integer]:2 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:10 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:10 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:103 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:9 name[character varying]:'Saina'
+table public.admin2: INSERT: id[integer]:9 name[character varying]:'Saina'
+table public.admin2: INSERT: id[integer]:9 name[character varying]:'Saina'
+table public.admin2: INSERT: id[integer]:2 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'vyankatraman'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'ramansingh'
+table public.admin2: INSERT: id[integer]:10 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:10 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:101 name[character varying]:'SaumyaRanjan'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:102 name[character varying]:'Gaurav'
+table public.admin2: INSERT: id[integer]:103 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:104 name[character varying]:'Rajnandini'
+table public.admin2: INSERT: id[integer]:6 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:7 name[character varying]:'Prathamesh'
+table public.admin2: INSERT: id[integer]:9 name[character varying]:'Saina'
+table public.admin2: INSERT: id[integer]:9 name[character varying]:'Saina'
+table public.admin2: INSERT: id[integer]:9 name[character varying]:'Saina'
+COMMIT 4549
+BEGIN 4552
+table public.sample: INSERT: id[integer]:1 name[character varying]:'Shreyas' designation[character varying]:'Python Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:4 name[character varying]:'Ranjan' designation[character varying]:'Frontend Dev' dept[character varying]:'IT' sal_id[integer]:null
+table public.sample: INSERT: id[integer]:5 name[character varying]:'Prathamesh' designation[character varying]:'java developer' dept[character varying]:'it' sal_id[integer]:1
+table public.sample: INSERT: id[integer]:1 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:3
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:4
+table public.sample: INSERT: id[integer]:4 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:5
+table public.sample: INSERT: id[integer]:10 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:7
+table public.sample: INSERT: id[integer]:11 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:8
+table public.sample: INSERT: id[integer]:12 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:13 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:14 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:15 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:16 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:17 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:19 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:19 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:20 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:21 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:212 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:2123 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:21234 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:212345 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+table public.sample: INSERT: id[integer]:1 name[character varying]:'Shreyas' designation[character varying]:'Python Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Gaurav' designation[character varying]:'Java Developer' dept[character varying]:null sal_id[integer]:null
+table public.sample: INSERT: id[integer]:4 name[character varying]:'Ranjan' designation[character varying]:'Frontend Dev' dept[character varying]:'IT' sal_id[integer]:null
+table public.sample: INSERT: id[integer]:5 name[character varying]:'Prathamesh' designation[character varying]:'java developer' dept[character varying]:'it' sal_id[integer]:1
+table public.sample: INSERT: id[integer]:1 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:3
+table public.sample: INSERT: id[integer]:2 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:4
+table public.sample: INSERT: id[integer]:4 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:5
+COMMIT 4552
+BEGIN 4555
+COMMIT 4555
+BEGIN 4881
+table public.admin3: UPDATE: id[integer]:3 name[character varying]:'ranjish'
+COMMIT 4881
+BEGIN 4882
+table public.admin3: UPDATE: id[integer]:3 name[character varying]:'ranjish'
+COMMIT 4882
+BEGIN 4883
+table public.admin3: UPDATE: id[integer]:3 name[character varying]:'ranjish'
+COMMIT 4883
+BEGIN 4884
+table public.admin3: UPDATE: id[integer]:7 name[character varying]:'ramesh'
+COMMIT 4884

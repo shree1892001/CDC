@@ -1,0 +1,2 @@
+{"table": "public.sample", "operation": "INSERT", "values": {"id": "integer"}}
+{"table": "public.admin1", "operation": "INSERT", "values": {"id": "integer"}}

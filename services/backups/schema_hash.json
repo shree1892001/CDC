@@ -1,0 +1,22 @@
+{
+    "admin1": {
+        "hash": "89170e5076853d407c57aea09b7201e5",
+        "definition": "admin1:[('id', 'integer', None, 'YES', None), ('name', 'character varying', 20, 'YES', None)]:[]"
+    },
+    "admin2": {
+        "hash": "4f8cc8fb2f29d6cfa58f34210f957030",
+        "definition": "admin2:[('id', 'integer', None, 'YES', None), ('name', 'character varying', 20, 'YES', None)]:[]"
+    },
+    "sample": {
+        "hash": "6ba421d421c54a7fdf515a21a8a2f901",
+        "definition": "sample:[('id', 'integer', None, 'YES', None), ('name', 'character varying', 20, 'YES', None), ('designation', 'character varying', 20, 'YES', None), ('dept', 'character varying', 20, 'YES', None), ('sal_id', 'integer', None, 'YES', None)]:[]"
+    },
+    "admin3": {
+        "hash": "3ef6280cf13a34af1f8d9b5f965f151d",
+        "definition": "admin3:[('id', 'integer', None, 'NO', None), ('name', 'character varying', 30, 'YES', None)]:[('CREATE UNIQUE INDEX admin3_pkey ON public.admin3 USING btree (id)',)]"
+    },
+    "salaries": {
+        "hash": "4c3a34a81383dbc1f453d87eeb434147",
+        "definition": "salaries:[('sal_id', 'integer', None, 'NO', None), ('salary', 'double precision', None, 'YES', None)]:[('CREATE UNIQUE INDEX salaries_pkey ON public.salaries USING btree (sal_id)',)]"
+    }
+}

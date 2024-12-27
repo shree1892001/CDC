@@ -1,0 +1,6 @@
+{"table": "public.sample", "operation": "INSERT", "values": {"id": "integer"}}
+{"table": "public.salaries", "operation": "INSERT", "values": {"sal_id": "integer"}}
+{"table": "public.sample", "operation": "INSERT", "values": {"id": "integer"}}
+{"table": "public.salaries", "operation": "INSERT", "values": {"sal_id": "integer"}}
+{"table": "public.sample", "operation": "INSERT", "values": {"id": "integer"}}
+{"table": "public.salaries", "operation": "INSERT", "values": {"sal_id": "integer"}}

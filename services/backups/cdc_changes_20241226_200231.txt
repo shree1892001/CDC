@@ -1,0 +1,4 @@
+BEGIN 4469
+table public.salaries: INSERT: sal_id[integer]:14 salary[double precision]:60000
+table public.sample: INSERT: id[integer]:16 name[character varying]:'Pranav' designation[character varying]:'Java Developer' dept[character varying]:'IT' sal_id[integer]:9
+COMMIT 4469

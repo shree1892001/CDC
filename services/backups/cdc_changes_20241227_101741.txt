@@ -1,0 +1,9 @@
+BEGIN 4886
+table public.admin3: UPDATE: id[integer]:21 name[character varying]:'Arun Raj'
+COMMIT 4886
+BEGIN 4887
+table public.admin3: DELETE: id[integer]:21
+COMMIT 4887
+BEGIN 4888
+table public.admin3: UPDATE: id[integer]:2 name[character varying]:'Pranav'
+COMMIT 4888

@@ -1,0 +1,4 @@
+{"txid": 830, "start_lsn": "0/33147536", "start_timestamp": "2026-03-03T18:53:48.117202", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 830, "start_lsn": "0/33147536", "start_timestamp": "2026-03-03T18:53:48.117202", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/33148448", "end_timestamp": "2026-03-03T18:53:48.265170"}
+{"txid": 831, "start_lsn": "0/33148792", "start_timestamp": "2026-03-03T22:23:28.955302", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 831, "start_lsn": "0/33148792", "start_timestamp": "2026-03-03T22:23:28.955302", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/33149736", "end_timestamp": "2026-03-03T22:23:29.318361"}

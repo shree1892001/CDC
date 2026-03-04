@@ -1,0 +1,25 @@
+{
+  "backup_id": "20260303_182648",
+  "filename": "cdc_backup_20260303_182648.sql",
+  "start_time": "2026-03-03T18:26:48.828264",
+  "start_lsn": null,
+  "end_lsn": null,
+  "end_time": "2026-03-03T18:35:07.905043",
+  "changes_count": 0,
+  "tables_affected": [],
+  "transactions": [],
+  "format": "sql",
+  "compressed": false,
+  "parent_backup_id": "20260215_231239",
+  "base_backup_id": "20260215_231239",
+  "chain_depth": 1,
+  "size_bytes": 413,
+  "checksums": {
+    "sha256": "0ffe71bdc9289b0c5e46dd8bbe55e8e7dd360be63de9c7fb97eb63e91288ab96",
+    "md5": "89d3ad7aff1b05719b6b44134722cf99"
+  },
+  "verified": false,
+  "verification_errors": [
+    "'dict' object has no attribute 'filename'"
+  ]
+}

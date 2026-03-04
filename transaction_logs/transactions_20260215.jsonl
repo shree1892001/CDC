@@ -1,0 +1,123 @@
+{"txid": 767, "start_lsn": "0/32286920", "start_timestamp": "2026-02-15T13:22:43.847775", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 767, "start_lsn": "0/32286920", "start_timestamp": "2026-02-15T13:22:43.847775", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32430904", "end_timestamp": "2026-02-15T13:22:43.847775"}
+{"txid": 768, "start_lsn": "0/32430904", "start_timestamp": "2026-02-15T13:22:43.852942", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 768, "start_lsn": "0/32430904", "start_timestamp": "2026-02-15T13:22:43.852942", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.restore_test_kv"], "end_lsn": "0/32431176", "end_timestamp": "2026-02-15T13:22:43.854479"}
+{"txid": 769, "start_lsn": "0/32431176", "start_timestamp": "2026-02-15T13:22:43.854479", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 769, "start_lsn": "0/32431176", "start_timestamp": "2026-02-15T13:22:43.854479", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.restore_test_kv"], "end_lsn": "0/32431352", "end_timestamp": "2026-02-15T13:22:43.854479"}
+{"txid": 770, "start_lsn": "0/32431352", "start_timestamp": "2026-02-15T13:22:43.854479", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 770, "start_lsn": "0/32431352", "start_timestamp": "2026-02-15T13:22:43.854479", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.restore_test_kv"], "end_lsn": "0/32431528", "end_timestamp": "2026-02-15T13:22:43.864216"}
+{"txid": 771, "start_lsn": "0/32431528", "start_timestamp": "2026-02-15T13:22:43.864216", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 771, "start_lsn": "0/32431528", "start_timestamp": "2026-02-15T13:22:43.864216", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.restore_test_kv"], "end_lsn": "0/32431656", "end_timestamp": "2026-02-15T13:22:43.866352"}
+{"txid": 772, "start_lsn": "0/32431944", "start_timestamp": "2026-02-15T13:22:43.904652", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 772, "start_lsn": "0/32431944", "start_timestamp": "2026-02-15T13:22:43.904652", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32457688", "end_timestamp": "2026-02-15T13:22:43.904652"}
+{"txid": 773, "start_lsn": "0/32457688", "start_timestamp": "2026-02-15T13:22:43.904652", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 773, "start_lsn": "0/32457688", "start_timestamp": "2026-02-15T13:22:43.904652", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32484400", "end_timestamp": "2026-02-15T13:22:43.904652"}
+{"txid": 774, "start_lsn": "0/32484400", "start_timestamp": "2026-02-15T13:22:43.912038", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 774, "start_lsn": "0/32484400", "start_timestamp": "2026-02-15T13:22:43.912038", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32493880", "end_timestamp": "2026-02-15T13:22:43.912549"}
+{"txid": 775, "start_lsn": "0/32493880", "start_timestamp": "2026-02-15T13:22:43.912549", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 775, "start_lsn": "0/32493880", "start_timestamp": "2026-02-15T13:22:43.912549", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32499880", "end_timestamp": "2026-02-15T13:22:43.912549"}
+{"txid": 776, "start_lsn": "0/32499880", "start_timestamp": "2026-02-15T13:22:43.914885", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 776, "start_lsn": "0/32499880", "start_timestamp": "2026-02-15T13:22:43.914885", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32502816", "end_timestamp": "2026-02-15T13:22:43.916250"}
+{"txid": 777, "start_lsn": "0/32502816", "start_timestamp": "2026-02-15T13:22:43.916250", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 777, "start_lsn": "0/32502816", "start_timestamp": "2026-02-15T13:22:43.916250", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32513760", "end_timestamp": "2026-02-15T13:22:43.917756"}
+{"txid": 778, "start_lsn": "0/32513760", "start_timestamp": "2026-02-15T13:22:43.917756", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 778, "start_lsn": "0/32513760", "start_timestamp": "2026-02-15T13:22:43.917756", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32598920", "end_timestamp": "2026-02-15T13:22:43.917756"}
+{"txid": 780, "start_lsn": "0/32599016", "start_timestamp": "2026-02-15T13:22:43.920912", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 780, "start_lsn": "0/32599016", "start_timestamp": "2026-02-15T13:22:43.920912", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32605288", "end_timestamp": "2026-02-15T13:22:43.920912"}
+{"txid": 782, "start_lsn": "0/32605384", "start_timestamp": "2026-02-15T13:22:43.920912", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 782, "start_lsn": "0/32605384", "start_timestamp": "2026-02-15T13:22:43.920912", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32622720", "end_timestamp": "2026-02-15T13:22:43.923420"}
+{"txid": 784, "start_lsn": "0/32622816", "start_timestamp": "2026-02-15T13:22:43.924460", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 784, "start_lsn": "0/32622816", "start_timestamp": "2026-02-15T13:22:43.924460", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32666856", "end_timestamp": "2026-02-15T13:22:43.924629"}
+{"txid": 785, "start_lsn": "0/32666856", "start_timestamp": "2026-02-15T13:22:43.925344", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 785, "start_lsn": "0/32666856", "start_timestamp": "2026-02-15T13:22:43.925344", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32670592", "end_timestamp": "2026-02-15T13:22:43.925344"}
+{"txid": 786, "start_lsn": "0/32670592", "start_timestamp": "2026-02-15T13:22:43.927499", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 786, "start_lsn": "0/32670592", "start_timestamp": "2026-02-15T13:22:43.927499", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32680688", "end_timestamp": "2026-02-15T13:22:43.928005"}
+{"txid": 787, "start_lsn": "0/32680976", "start_timestamp": "2026-02-15T13:22:43.952736", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 787, "start_lsn": "0/32680976", "start_timestamp": "2026-02-15T13:22:43.952736", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32712824", "end_timestamp": "2026-02-15T13:22:43.954368"}
+{"txid": 788, "start_lsn": "0/32712824", "start_timestamp": "2026-02-15T13:22:43.954368", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 788, "start_lsn": "0/32712824", "start_timestamp": "2026-02-15T13:22:43.954368", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32722256", "end_timestamp": "2026-02-15T13:22:43.954368"}
+{"txid": 789, "start_lsn": "0/32722256", "start_timestamp": "2026-02-15T13:22:43.954368", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 789, "start_lsn": "0/32722256", "start_timestamp": "2026-02-15T13:22:43.954368", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32723544", "end_timestamp": "2026-02-15T13:22:43.954368"}
+{"txid": 790, "start_lsn": "0/32723544", "start_timestamp": "2026-02-15T13:22:43.959742", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 790, "start_lsn": "0/32723544", "start_timestamp": "2026-02-15T13:22:43.959742", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32738888", "end_timestamp": "2026-02-15T13:22:43.959742"}
+{"txid": 791, "start_lsn": "0/32738888", "start_timestamp": "2026-02-15T13:22:43.959742", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 791, "start_lsn": "0/32738888", "start_timestamp": "2026-02-15T13:22:43.959742", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32741824", "end_timestamp": "2026-02-15T13:22:43.959742"}
+{"txid": 792, "start_lsn": "0/32741824", "start_timestamp": "2026-02-15T13:22:43.959742", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 792, "start_lsn": "0/32741824", "start_timestamp": "2026-02-15T13:22:43.959742", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32744600", "end_timestamp": "2026-02-15T13:22:43.959742"}
+{"txid": 793, "start_lsn": "0/32744600", "start_timestamp": "2026-02-15T13:22:43.967870", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 793, "start_lsn": "0/32744600", "start_timestamp": "2026-02-15T13:22:43.967870", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32832952", "end_timestamp": "2026-02-15T13:22:43.967870"}
+{"txid": 795, "start_lsn": "0/32833048", "start_timestamp": "2026-02-15T13:22:43.967870", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 795, "start_lsn": "0/32833048", "start_timestamp": "2026-02-15T13:22:43.967870", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32839320", "end_timestamp": "2026-02-15T13:22:43.967870"}
+{"txid": 797, "start_lsn": "0/32839416", "start_timestamp": "2026-02-15T13:22:43.974193", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 797, "start_lsn": "0/32839416", "start_timestamp": "2026-02-15T13:22:43.974193", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32856920", "end_timestamp": "2026-02-15T13:22:43.974704"}
+{"txid": 799, "start_lsn": "0/32857016", "start_timestamp": "2026-02-15T13:22:43.976144", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 799, "start_lsn": "0/32857016", "start_timestamp": "2026-02-15T13:22:43.976144", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32894216", "end_timestamp": "2026-02-15T13:22:43.976144"}
+{"txid": 800, "start_lsn": "0/32894216", "start_timestamp": "2026-02-15T13:22:43.977151", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 800, "start_lsn": "0/32894216", "start_timestamp": "2026-02-15T13:22:43.977151", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32897928", "end_timestamp": "2026-02-15T13:22:43.977151"}
+{"txid": 801, "start_lsn": "0/32897928", "start_timestamp": "2026-02-15T13:22:43.979540", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 801, "start_lsn": "0/32897928", "start_timestamp": "2026-02-15T13:22:43.979540", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32901688", "end_timestamp": "2026-02-15T13:22:43.979540"}
+{"txid": 802, "start_lsn": "0/32901744", "start_timestamp": "2026-02-15T13:22:43.987371", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 802, "start_lsn": "0/32901744", "start_timestamp": "2026-02-15T13:22:43.987371", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32903032", "end_timestamp": "2026-02-15T13:22:43.988891"}
+{"txid": 803, "start_lsn": "0/32903032", "start_timestamp": "2026-02-15T13:22:43.990076", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 803, "start_lsn": "0/32903032", "start_timestamp": "2026-02-15T13:22:43.990076", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32904320", "end_timestamp": "2026-02-15T13:22:43.990299"}
+{"txid": 804, "start_lsn": "0/32904320", "start_timestamp": "2026-02-15T13:22:43.990817", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 804, "start_lsn": "0/32904320", "start_timestamp": "2026-02-15T13:22:43.990817", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32905608", "end_timestamp": "2026-02-15T13:22:43.992611"}
+{"txid": 805, "start_lsn": "0/32905608", "start_timestamp": "2026-02-15T13:22:43.993320", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 805, "start_lsn": "0/32905608", "start_timestamp": "2026-02-15T13:22:43.993320", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32908384", "end_timestamp": "2026-02-15T13:22:43.993320"}
+{"txid": 806, "start_lsn": "0/32908384", "start_timestamp": "2026-02-15T13:22:43.995550", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 806, "start_lsn": "0/32908384", "start_timestamp": "2026-02-15T13:22:43.995550", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32911320", "end_timestamp": "2026-02-15T13:22:43.996067"}
+{"txid": 807, "start_lsn": "0/32911320", "start_timestamp": "2026-02-15T13:22:43.996067", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 807, "start_lsn": "0/32911320", "start_timestamp": "2026-02-15T13:22:43.996067", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32914072", "end_timestamp": "2026-02-15T13:22:43.996067"}
+{"txid": 808, "start_lsn": "0/32914072", "start_timestamp": "2026-02-15T13:22:43.996067", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 808, "start_lsn": "0/32914072", "start_timestamp": "2026-02-15T13:22:43.996067", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32923024", "end_timestamp": "2026-02-15T13:22:43.996067"}
+{"txid": 810, "start_lsn": "0/32923120", "start_timestamp": "2026-02-15T13:22:43.996067", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 810, "start_lsn": "0/32923120", "start_timestamp": "2026-02-15T13:22:43.996067", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32929392", "end_timestamp": "2026-02-15T13:22:43.996067"}
+{"txid": 812, "start_lsn": "0/32929488", "start_timestamp": "2026-02-15T13:22:43.996067", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 812, "start_lsn": "0/32929488", "start_timestamp": "2026-02-15T13:22:43.996067", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32935392", "end_timestamp": "2026-02-15T13:22:44.003233"}
+{"txid": 814, "start_lsn": "0/32935488", "start_timestamp": "2026-02-15T13:22:44.004350", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 814, "start_lsn": "0/32935488", "start_timestamp": "2026-02-15T13:22:44.004350", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32939184", "end_timestamp": "2026-02-15T13:22:44.004350"}
+{"txid": 815, "start_lsn": "0/32939184", "start_timestamp": "2026-02-15T13:22:44.006577", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 815, "start_lsn": "0/32939184", "start_timestamp": "2026-02-15T13:22:44.006577", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32942920", "end_timestamp": "2026-02-15T13:22:44.006577"}
+{"txid": 816, "start_lsn": "0/32942920", "start_timestamp": "2026-02-15T13:22:44.007592", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 816, "start_lsn": "0/32942920", "start_timestamp": "2026-02-15T13:22:44.007592", "status": "COMMITTED", "changes_count": 0, "tables_affected": [], "end_lsn": "0/32946656", "end_timestamp": "2026-02-15T13:22:44.008608"}
+{"txid": 817, "start_lsn": "0/32947000", "start_timestamp": "2026-02-15T20:14:07.847823", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 817, "start_lsn": "0/32947000", "start_timestamp": "2026-02-15T20:14:09.437617", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 817, "start_lsn": "0/32947000", "start_timestamp": "2026-02-15T20:14:09.437617", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32947296", "end_timestamp": "2026-02-15T20:14:09.445953"}
+{"txid": 817, "start_lsn": "0/32947000", "start_timestamp": "2026-02-15T20:14:07.847823", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32947296", "end_timestamp": "2026-02-15T20:14:09.444950"}
+{"txid": 818, "start_lsn": "0/32947640", "start_timestamp": "2026-02-15T20:22:21.888831", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 818, "start_lsn": "0/32947640", "start_timestamp": "2026-02-15T20:22:21.888831", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32948056", "end_timestamp": "2026-02-15T20:22:21.892895"}
+{"txid": 819, "start_lsn": "0/32948424", "start_timestamp": "2026-02-15T22:06:05.973268", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 819, "start_lsn": "0/32948424", "start_timestamp": "2026-02-15T22:06:05.973268", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33139032", "end_timestamp": "2026-02-15T22:06:05.978817"}
+{"txid": 819, "start_lsn": "0/32948424", "start_timestamp": "2026-02-15T22:06:06.069793", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 819, "start_lsn": "0/32948424", "start_timestamp": "2026-02-15T22:06:06.069793", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33139032", "end_timestamp": "2026-02-15T22:06:06.081528"}
+{"txid": 820, "start_lsn": "0/33139032", "start_timestamp": "2026-02-15T22:06:07.939045", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 820, "start_lsn": "0/33139032", "start_timestamp": "2026-02-15T22:06:07.939045", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 820, "start_lsn": "0/33139032", "start_timestamp": "2026-02-15T22:06:07.939045", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33139232", "end_timestamp": "2026-02-15T22:06:07.941848"}
+{"txid": 820, "start_lsn": "0/33139032", "start_timestamp": "2026-02-15T22:06:07.939045", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33139232", "end_timestamp": "2026-02-15T22:06:07.943638"}
+{"txid": 821, "start_lsn": "0/33139576", "start_timestamp": "2026-02-15T22:12:41.727420", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 821, "start_lsn": "0/33139576", "start_timestamp": "2026-02-15T22:12:41.727420", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 821, "start_lsn": "0/33139576", "start_timestamp": "2026-02-15T22:12:41.727420", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 821, "start_lsn": "0/33139576", "start_timestamp": "2026-02-15T22:12:41.727420", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33140184", "end_timestamp": "2026-02-15T22:12:41.731714"}
+{"txid": 821, "start_lsn": "0/33139576", "start_timestamp": "2026-02-15T22:12:41.727420", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33140184", "end_timestamp": "2026-02-15T22:12:41.731714"}
+{"txid": 821, "start_lsn": "0/33139576", "start_timestamp": "2026-02-15T22:12:41.727420", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33140184", "end_timestamp": "2026-02-15T22:12:41.816798"}
+{"txid": 822, "start_lsn": "0/33140184", "start_timestamp": "2026-02-15T22:12:43.765776", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 822, "start_lsn": "0/33140184", "start_timestamp": "2026-02-15T22:12:43.765776", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 822, "start_lsn": "0/33140184", "start_timestamp": "2026-02-15T22:12:43.767819", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 822, "start_lsn": "0/33140184", "start_timestamp": "2026-02-15T22:12:43.765776", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33140384", "end_timestamp": "2026-02-15T22:12:43.769989"}
+{"txid": 822, "start_lsn": "0/33140184", "start_timestamp": "2026-02-15T22:12:43.765776", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33140384", "end_timestamp": "2026-02-15T22:12:43.770911"}
+{"txid": 822, "start_lsn": "0/33140184", "start_timestamp": "2026-02-15T22:12:43.767819", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33140384", "end_timestamp": "2026-02-15T22:12:43.770911"}
+{"txid": 824, "start_lsn": "0/33141064", "start_timestamp": "2026-02-15T22:21:23.593886", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 824, "start_lsn": "0/33141064", "start_timestamp": "2026-02-15T22:21:23.595645", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 824, "start_lsn": "0/33141064", "start_timestamp": "2026-02-15T22:21:23.593886", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/33141360", "end_timestamp": "2026-02-15T22:21:23.600183"}
+{"txid": 824, "start_lsn": "0/33141064", "start_timestamp": "2026-02-15T22:21:23.593886", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/33141360", "end_timestamp": "2026-02-15T22:21:23.601198"}
+{"txid": 824, "start_lsn": "0/33141064", "start_timestamp": "2026-02-15T22:21:23.595645", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/33141360", "end_timestamp": "2026-02-15T22:21:23.603185"}
+{"txid": 826, "start_lsn": "0/33142392", "start_timestamp": "2026-02-15T23:03:21.279390", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 826, "start_lsn": "0/33142392", "start_timestamp": "2026-02-15T23:03:21.279390", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/33142704", "end_timestamp": "2026-02-15T23:03:21.284698"}
+{"txid": 827, "start_lsn": "0/33142992", "start_timestamp": "2026-02-15T23:12:44.681828", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 827, "start_lsn": "0/33142992", "start_timestamp": "2026-02-15T23:12:44.681828", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33143776", "end_timestamp": "2026-02-15T23:12:44.693245"}
+{"txid": 828, "start_lsn": "0/33144120", "start_timestamp": "2026-02-15T23:14:35.528718", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 828, "start_lsn": "0/33144120", "start_timestamp": "2026-02-15T23:14:35.528718", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 828, "start_lsn": "0/33144120", "start_timestamp": "2026-02-15T23:14:35.528718", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33145016", "end_timestamp": "2026-02-15T23:14:35.531653"}
+{"txid": 828, "start_lsn": "0/33144120", "start_timestamp": "2026-02-15T23:14:35.528718", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.cdc_test"], "end_lsn": "0/33145016", "end_timestamp": "2026-02-15T23:14:35.531653"}
+{"txid": 829, "start_lsn": "0/33145360", "start_timestamp": "2026-02-15T23:17:56.359984", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 829, "start_lsn": "0/33145360", "start_timestamp": "2026-02-15T23:17:56.359984", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/33146144", "end_timestamp": "2026-02-15T23:17:56.366648"}

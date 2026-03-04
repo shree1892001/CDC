@@ -1,0 +1,20 @@
+{
+  "backup_id": "20260215_221236",
+  "filename": "cdc_backup_20260215_221236.sql",
+  "start_time": "2026-02-15T22:12:36.644339",
+  "start_lsn": "0/33139680",
+  "end_lsn": "0/33141064",
+  "end_time": "2026-02-15T23:02:43.334895",
+  "changes_count": 3,
+  "tables_affected": [
+    "public.cdc_test",
+    "public.employee"
+  ],
+  "transactions": [
+    824,
+    821,
+    822
+  ],
+  "format": "sql",
+  "compressed": false
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "backup_id": "20260201_202817",
+    "filename": "cdc_backup_20260201_202817.sql",
+    "start_time": "2026-02-01T20:28:17.350035",
+    "start_lsn": null,
+    "end_lsn": null,
+    "end_time": "2026-02-01T20:32:51.970921",
+    "changes_count": 0,
+    "tables_affected": [],
+    "transactions": [],
+    "format": "sql",
+    "compressed": false
+  },
+  {
+    "backup_id": "20260202_051604",
+    "filename": "cdc_backup_20260202_051604.sql",
+    "start_time": "2026-02-02T05:16:04.275903",
+    "start_lsn": "0/32283424",
+    "end_lsn": "0/32283424",
+    "end_time": "2026-02-02T07:25:44.542175",
+    "changes_count": 1,
+    "tables_affected": [
+      "public.employee"
+    ],
+    "transactions": [
+      764
+    ],
+    "format": "sql",
+    "compressed": false
+  },
+  {
+    "backup_id": "20260203_210126",
+    "filename": "cdc_backup_20260203_210126.sql",
+    "start_time": "2026-02-03T21:01:26.131321",
+    "start_lsn": null,
+    "end_lsn": null,
+    "end_time": "2026-02-03T21:51:36.703019",
+    "changes_count": 0,
+    "tables_affected": [],
+    "transactions": [],
+    "format": "sql",
+    "compressed": false
+  },
+  {
+    "backup_id": "20260215_132243",
+    "filename": "cdc_backup_20260215_132243.sql",
+    "start_time": "2026-02-15T13:22:43.573062",
+    "start_lsn": "0/32430904",
+    "end_lsn": "0/33141064",
+    "end_time": "2026-02-15T23:02:43.393112",
+    "changes_count": 11,
+    "tables_affected": [
+      "public.cdc_test",
+      "public.employee",
+      "public.restore_test_kv"
+    ],
+    "transactions": [
+      768,
+      769,
+      770,
+      771,
+      817,
+      818,
+      819,
+      820,
+      821,
+      822,
+      824
+    ],
+    "format": "sql",
+    "compressed": false
+  },
+  {
+    "backup_id": "20260215_231112",
+    "filename": "cdc_backup_20260215_231112.sql",
+    "start_time": "2026-02-15T23:11:12.181629",
+    "start_lsn": null,
+    "end_lsn": null,
+    "end_time": "2026-02-15T23:11:12.269742",
+    "changes_count": 0,
+    "tables_affected": [],
+    "transactions": [],
+    "format": "sql",
+    "compressed": false
+  },
+  {
+    "backup_id": "20260215_231239",
+    "filename": "cdc_backup_20260215_231239.sql",
+    "start_time": "2026-02-15T23:12:39.581663",
+    "start_lsn": null,
+    "end_lsn": null,
+    "end_time": "2026-02-15T23:12:39.631644",
+    "changes_count": 0,
+    "tables_affected": [],
+    "transactions": [],
+    "format": "sql",
+    "compressed": false
+  },
+  {
+    "backup_id": "20260303_182648",
+    "filename": "cdc_backup_20260303_182648.sql",
+    "start_time": "2026-03-03T18:26:48.828264",
+    "start_lsn": null,
+    "end_lsn": null,
+    "end_time": "2026-03-03T18:35:07.905043",
+    "changes_count": 0,
+    "tables_affected": [],
+    "transactions": [],
+    "format": "sql",
+    "compressed": false,
+    "parent_backup_id": "20260215_231239",
+    "base_backup_id": "20260215_231239",
+    "chain_depth": 1,
+    "size_bytes": 413,
+    "checksums": {
+      "sha256": "0ffe71bdc9289b0c5e46dd8bbe55e8e7dd360be63de9c7fb97eb63e91288ab96",
+      "md5": "89d3ad7aff1b05719b6b44134722cf99"
+    },
+    "verified": false,
+    "verification_errors": [
+      "'dict' object has no attribute 'filename'"
+    ]
+  },
+  {
+    "backup_id": "20260303_183514",
+    "filename": "cdc_backup_20260303_183514.sql",
+    "start_time": "2026-03-03T18:35:14.209130",
+    "start_lsn": "0/33147536",
+    "end_lsn": "0/33147536",
+    "end_time": "2026-03-03T20:39:08.875809",
+    "changes_count": 1,
+    "tables_affected": [
+      "public.employee"
+    ],
+    "transactions": [
+      830
+    ],
+    "format": "sql",
+    "compressed": false,
+    "parent_backup_id": "20260303_182648",
+    "base_backup_id": "20260215_231239",
+    "chain_depth": 2
+  }
+]

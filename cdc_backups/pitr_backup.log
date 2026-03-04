@@ -1,0 +1,251 @@
+2026-02-01 19:08:26 - INFO - Initialized new backup file: cdc_backup_20260201_190826.json.gz
+2026-02-01 19:15:28 - INFO - Initialized new backup file: cdc_backup_20260201_191528.json.gz
+2026-02-01 19:51:52 - INFO - Initialized new backup file: cdc_backup_20260201_195152.json.gz
+2026-02-01 19:58:38 - INFO - Initialized new backup file: cdc_backup_20260201_195838.json.gz
+2026-02-01 20:18:56 - INFO - Initialized new backup file: cdc_backup_20260201_201856.sql
+2026-02-01 20:19:10 - INFO - Initialized new backup file: cdc_backup_20260201_201910.sql
+2026-02-01 20:26:40 - INFO - Initialized new backup file: cdc_backup_20260201_202640.sql
+2026-02-01 20:28:17 - INFO - Initialized new backup file: cdc_backup_20260201_202817.sql
+2026-02-01 20:32:51 - INFO - Shutting down PITR Backup Manager
+2026-02-01 20:32:52 - INFO - Finalized backup 20260201_202817 (0 changes)
+2026-02-01 20:32:52 - INFO - Shutdown complete
+2026-02-01 20:32:52 - INFO - Initialized new backup file: cdc_backup_20260201_203252.sql
+2026-02-01 20:32:52 - INFO - Loaded backup catalog with 1 entries
+2026-02-02 05:16:04 - INFO - Initialized new backup file: cdc_backup_20260202_051604.sql
+2026-02-02 05:16:04 - INFO - Loaded backup catalog with 1 entries
+2026-02-02 05:16:57 - INFO - Successfully flushed 1 changes to disk
+2026-02-02 07:25:44 - INFO - Shutting down PITR Backup Manager
+2026-02-02 07:25:44 - INFO - Finalized backup 20260202_051604 (1 changes)
+2026-02-02 07:25:44 - INFO - Shutdown complete
+2026-02-02 07:38:44 - INFO - Initialized new backup file: cdc_backup_20260202_073844.sql
+2026-02-02 07:38:44 - INFO - Loaded backup catalog with 2 entries
+2026-02-03 07:27:05 - INFO - Initialized new backup file: cdc_backup_20260203_072705.sql
+2026-02-03 07:27:05 - INFO - Loaded backup catalog with 2 entries
+2026-02-03 07:27:05 - INFO - Creating base backup for database test...
+2026-02-03 07:27:05 - INFO - Base backup created successfully: d:\CDC\cdc_backups\base_snapshot_20260203_072705.dump
+2026-02-03 20:50:30 - INFO - Initialized new backup file: cdc_backup_20260203_205030.sql
+2026-02-03 20:50:30 - INFO - Loaded backup catalog with 2 entries
+2026-02-03 20:50:33 - INFO - Initialized new backup file: cdc_backup_20260203_205033.sql
+2026-02-03 20:50:33 - INFO - Loaded backup catalog with 2 entries
+2026-02-03 21:01:26 - INFO - Initialized new backup file: cdc_backup_20260203_210126.sql
+2026-02-03 21:01:26 - INFO - Loaded backup catalog with 2 entries
+2026-02-03 21:51:36 - INFO - Shutting down PITR Backup Manager
+2026-02-03 21:51:38 - INFO - Finalized backup 20260203_210126 (0 changes)
+2026-02-03 21:51:38 - INFO - Shutdown complete
+2026-02-04 07:28:04 - INFO - Initialized new backup file: cdc_backup_20260204_072804.sql
+2026-02-04 07:28:04 - INFO - Loaded backup catalog with 3 entries
+2026-02-05 06:27:38 - INFO - Initialized new backup file: cdc_backup_20260205_062738.sql
+2026-02-05 06:27:38 - INFO - Loaded backup catalog with 3 entries
+2026-02-05 07:33:46 - INFO - Successfully flushed 1 changes to disk
+2026-02-05 07:41:35 - INFO - Initialized new backup file: cdc_backup_20260205_074135.sql
+2026-02-05 07:41:35 - INFO - Loaded backup catalog with 3 entries
+2026-02-05 07:41:38 - INFO - Initialized new backup file: cdc_backup_20260205_074138.sql
+2026-02-05 07:41:38 - INFO - Loaded backup catalog with 3 entries
+2026-02-08 13:17:06 - INFO - Initialized new backup file: cdc_backup_20260208_131706.sql
+2026-02-08 13:17:06 - INFO - Loaded backup catalog with 3 entries
+2026-02-08 13:17:06 - INFO - Creating base backup for database test...
+2026-02-08 13:17:07 - INFO - Base backup created successfully: D:\CDC\cdc_backups\base_snapshot_20260208_131706.dump
+2026-02-08 13:21:30 - INFO - Initialized new backup file: cdc_backup_20260208_132130.sql
+2026-02-08 13:21:30 - INFO - Loaded backup catalog with 3 entries
+2026-02-08 13:21:32 - INFO - Creating base backup for database test...
+2026-02-08 13:21:32 - INFO - Base backup created successfully: D:\CDC\cdc_backups\base_snapshot_20260208_132132.dump
+2026-02-15 12:36:57 - INFO - Initialized new backup file: cdc_backup_20260215_123657.sql
+2026-02-15 12:36:57 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 12:36:58 - INFO - Creating base backup for database test...
+2026-02-15 12:36:58 - INFO - Base backup created successfully: D:\CDC\cdc_backups\base_snapshot_20260215_123658.dump
+2026-02-15 12:37:45 - INFO - Initialized new backup file: cdc_backup_20260215_123745.sql
+2026-02-15 12:37:45 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 12:37:45 - INFO - Creating base backup for database test...
+2026-02-15 12:37:45 - INFO - Base backup created successfully: D:\CDC\cdc_backups\base_snapshot_20260215_123745.dump
+2026-02-15 12:43:41 - INFO - Initialized new backup file: cdc_backup_20260215_124340.sql
+2026-02-15 12:43:41 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 12:43:41 - INFO - Creating base backup for database test...
+2026-02-15 12:43:41 - INFO - Base backup created successfully: D:\CDC\cdc_backups\base_snapshot_20260215_124341.dump (2582 bytes)
+2026-02-15 12:44:09 - INFO - Initialized new backup file: cdc_backup_20260215_124409.sql
+2026-02-15 12:44:09 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 12:44:09 - INFO - Creating base backup for database test...
+2026-02-15 12:44:09 - INFO - Base backup created successfully: D:\CDC\cdc_backups\base_snapshot_20260215_124409.dump (2582 bytes)
+2026-02-15 12:44:09 - INFO - Initialized new backup file: cdc_backup_20260215_124409.sql
+2026-02-15 12:44:09 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 12:49:09 - INFO - Initialized new backup file: cdc_backup_20260215_124909.sql
+2026-02-15 12:49:09 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 13:11:07 - INFO - Initialized new backup file: cdc_backup_20260215_131107.sql
+2026-02-15 13:11:07 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 13:11:07 - INFO - Buffered change for public.users, buffer size: 1
+2026-02-15 13:12:26 - INFO - Initialized new backup file: cdc_backup_20260215_131226.sql
+2026-02-15 13:12:26 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 13:12:26 - INFO - Buffered change for public.users, buffer size: 1
+2026-02-15 13:22:43 - INFO - Initialized new backup file: cdc_backup_20260215_132243.sql
+2026-02-15 13:22:43 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 13:22:43 - INFO - Buffered change for public.restore_test_kv, buffer size: 1
+2026-02-15 13:22:43 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 13:22:43 - INFO - Buffered change for public.restore_test_kv, buffer size: 1
+2026-02-15 13:22:43 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 13:22:43 - INFO - Buffered change for public.restore_test_kv, buffer size: 1
+2026-02-15 13:22:43 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 13:22:43 - INFO - Buffered change for public.restore_test_kv, buffer size: 1
+2026-02-15 13:22:43 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 13:26:18 - INFO - Initialized new backup file: cdc_backup_20260215_132618.sql
+2026-02-15 13:26:18 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 13:34:46 - INFO - Initialized new backup file: cdc_backup_20260215_133446.sql
+2026-02-15 13:34:46 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 14:01:29 - INFO - Initialized new backup file: cdc_backup_20260215_140129.sql
+2026-02-15 14:01:29 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 19:42:36 - INFO - Initialized new backup file: cdc_backup_20260215_194236.sql
+2026-02-15 19:42:36 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 20:05:40 - INFO - Initialized new backup file: cdc_backup_20260215_200540.sql
+2026-02-15 20:05:40 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 20:14:07 - INFO - Buffered change for public.employee, buffer size: 1
+2026-02-15 20:14:09 - INFO - Buffered change for public.employee, buffer size: 1
+2026-02-15 20:14:09 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 20:14:09 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 20:18:36 - INFO - Initialized new backup file: cdc_backup_20260215_201836.sql
+2026-02-15 20:18:36 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 20:21:03 - INFO - Initialized new backup file: cdc_backup_20260215_202103.sql
+2026-02-15 20:21:03 - INFO - Loaded backup catalog with 3 entries
+2026-02-15 20:22:21 - INFO - Shutting down PITR Backup Manager
+2026-02-15 20:22:21 - INFO - Buffered change for public.employee, buffer size: 1
+2026-02-15 20:22:21 - INFO - Finalized backup 20260215_202103 (0 changes)
+2026-02-15 20:22:21 - INFO - Shutdown complete
+2026-02-15 20:22:21 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 20:22:22 - INFO - Initialized new backup file: cdc_backup_20260215_202222.sql
+2026-02-15 20:22:22 - INFO - Loaded backup catalog with 4 entries
+2026-02-15 22:06:00 - INFO - Initialized new backup file: cdc_backup_20260215_220600.sql
+2026-02-15 22:06:00 - INFO - Loaded backup catalog with 4 entries
+2026-02-15 22:06:05 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 22:06:05 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:06:06 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 22:06:06 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:06:07 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 22:06:07 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 22:06:07 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:06:07 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:06:36 - INFO - Initialized new backup file: cdc_backup_20260215_220636.sql
+2026-02-15 22:06:36 - INFO - Loaded backup catalog with 4 entries
+2026-02-15 22:12:36 - INFO - Initialized new backup file: cdc_backup_20260215_221236.sql
+2026-02-15 22:12:36 - INFO - Loaded backup catalog with 4 entries
+2026-02-15 22:12:41 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 22:12:41 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 22:12:41 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 22:12:41 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:12:41 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:12:41 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:12:43 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 22:12:43 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 22:12:43 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 22:12:43 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:12:43 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:12:43 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:21:23 - INFO - Buffered change for public.employee, buffer size: 1
+2026-02-15 22:21:23 - INFO - Buffered change for public.employee, buffer size: 1
+2026-02-15 22:21:23 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:21:23 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 22:21:23 - INFO - Buffered change for public.employee, buffer size: 1
+2026-02-15 22:21:23 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 23:00:44 - INFO - Initialized new backup file: cdc_backup_20260215_230044.sql
+2026-02-15 23:00:44 - INFO - Background flush thread started
+2026-02-15 23:00:44 - INFO - Loaded backup catalog with 4 entries
+2026-02-15 23:00:52 - INFO - Initialized new backup file: cdc_backup_20260215_230052.sql
+2026-02-15 23:00:52 - INFO - Background flush thread started
+2026-02-15 23:00:52 - INFO - Loaded backup catalog with 4 entries
+2026-02-15 23:02:43 - INFO - Shutting down PITR Backup Manager
+2026-02-15 23:02:43 - INFO - Finalized backup 20260215_221236 (3 changes)
+2026-02-15 23:02:43 - INFO - Shutdown complete
+2026-02-15 23:02:43 - INFO - Shutting down PITR Backup Manager
+2026-02-15 23:02:43 - INFO - Finalized backup 20260215_132243 (11 changes)
+2026-02-15 23:02:43 - INFO - Shutdown complete
+2026-02-15 23:02:49 - INFO - Initialized new backup file: cdc_backup_20260215_230249.sql
+2026-02-15 23:02:49 - INFO - Background flush thread started
+2026-02-15 23:02:49 - INFO - Loaded backup catalog with 4 entries
+2026-02-15 23:03:01 - INFO - Initialized new backup file: cdc_backup_20260215_230301.sql
+2026-02-15 23:03:01 - INFO - Background flush thread started
+2026-02-15 23:03:01 - INFO - Loaded backup catalog with 4 entries
+2026-02-15 23:03:21 - INFO - Buffered change for public.employee, buffer size: 1
+2026-02-15 23:03:21 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 23:11:12 - INFO - Initialized new backup file: cdc_backup_20260215_231112.sql
+2026-02-15 23:11:12 - INFO - Background flush thread started
+2026-02-15 23:11:12 - INFO - Loaded backup catalog with 4 entries
+2026-02-15 23:11:12 - INFO - Shutting down PITR Backup Manager
+2026-02-15 23:11:12 - INFO - Finalized backup 20260215_231112 (0 changes)
+2026-02-15 23:11:12 - INFO - Shutdown complete
+2026-02-15 23:12:39 - INFO - Initialized new backup file: cdc_backup_20260215_231239.sql
+2026-02-15 23:12:39 - INFO - Background flush thread started
+2026-02-15 23:12:39 - INFO - Loaded backup catalog with 5 entries
+2026-02-15 23:12:39 - INFO - Shutting down PITR Backup Manager
+2026-02-15 23:12:39 - INFO - Finalized backup 20260215_231239 (0 changes)
+2026-02-15 23:12:39 - INFO - Shutdown complete
+2026-02-15 23:12:44 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 23:12:44 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 23:14:30 - INFO - Initialized new backup file: cdc_backup_20260215_231430.sql
+2026-02-15 23:14:30 - INFO - Background flush thread started
+2026-02-15 23:14:30 - INFO - Loaded backup catalog with 6 entries
+2026-02-15 23:14:35 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 23:14:35 - INFO - Buffered change for public.cdc_test, buffer size: 1
+2026-02-15 23:14:35 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 23:14:35 - INFO - Successfully flushed 1 changes to disk
+2026-02-15 23:17:06 - INFO - Initialized new backup file: cdc_backup_20260215_231706.sql
+2026-02-15 23:17:06 - INFO - Background flush thread started
+2026-02-15 23:17:06 - INFO - Loaded backup catalog with 6 entries
+2026-02-15 23:17:56 - INFO - Buffered change for public.employee, buffer size: 1
+2026-02-15 23:17:56 - INFO - Successfully flushed 1 changes to disk
+2026-03-03 18:26:48 - INFO - Initialized new backup file: cdc_backup_20260303_182648.sql
+2026-03-03 18:26:48 - INFO - Background flush thread started
+2026-03-03 18:26:48 - INFO - Loaded backup catalog with 6 entries
+2026-03-03 18:26:49 - INFO - Creating base backup for database test...
+2026-03-03 18:26:49 - INFO - Base backup created successfully: D:\CDC\cdc_backups\base_snapshot_20260303_182649.dump (4041 bytes)
+2026-03-03 18:33:07 - INFO - Initialized new backup file: cdc_backup_20260303_183307.sql
+2026-03-03 18:33:07 - INFO - Background flush thread started
+2026-03-03 18:33:07 - INFO - Loaded backup catalog with 6 entries
+2026-03-03 18:35:07 - INFO - Shutting down PITR Backup Manager
+2026-03-03 18:35:07 - WARNING - Backup verification failed: 'dict' object has no attribute 'filename'
+2026-03-03 18:35:08 - INFO - Finalized backup 20260303_182648 (0 changes)
+2026-03-03 18:35:08 - INFO - Shutdown complete
+2026-03-03 18:35:14 - INFO - Initialized new backup file: cdc_backup_20260303_183514.sql
+2026-03-03 18:35:14 - INFO - Background flush thread started
+2026-03-03 18:35:14 - INFO - Loaded backup catalog with 7 entries
+2026-03-03 18:53:48 - INFO - Buffered change for public.employee, buffer size: 1
+2026-03-03 18:53:48 - INFO - Successfully flushed 1 changes to disk
+2026-03-03 20:39:08 - INFO - Shutting down PITR Backup Manager
+2026-03-03 20:39:08 - INFO - Finalized backup 20260303_183514 (1 changes)
+2026-03-03 20:39:08 - INFO - Shutdown complete
+2026-03-03 22:22:42 - INFO - Initialized new backup file: cdc_backup_20260303_222242.sql
+2026-03-03 22:22:42 - INFO - Background flush thread started
+2026-03-03 22:22:42 - INFO - Loaded backup catalog with 8 entries
+2026-03-03 22:23:29 - INFO - Buffered change for public.employee, buffer size: 1
+2026-03-03 22:23:29 - INFO - Successfully flushed 1 changes to disk
+2026-03-03 22:24:47 - INFO - Initialized new backup file: cdc_backup_20260303_222447.sql
+2026-03-03 22:24:47 - INFO - Background flush thread started
+2026-03-03 22:24:47 - INFO - Loaded backup catalog with 8 entries
+2026-03-03 22:27:28 - INFO - Initialized new backup file: cdc_backup_20260303_222728.sql
+2026-03-03 22:27:28 - INFO - Background flush thread started
+2026-03-03 22:27:28 - INFO - Loaded backup catalog with 8 entries
+2026-03-03 22:27:33 - INFO - Initialized new backup file: cdc_backup_20260303_222733.sql
+2026-03-03 22:27:33 - INFO - Background flush thread started
+2026-03-03 22:27:33 - INFO - Loaded backup catalog with 8 entries
+2026-03-03 22:34:49 - INFO - Initialized new backup file: cdc_backup_20260303_223449.sql
+2026-03-03 22:34:49 - INFO - Background flush thread started
+2026-03-03 22:34:49 - INFO - Loaded backup catalog with 8 entries
+2026-03-03 22:58:27 - INFO - Initialized new backup file: cdc_backup_20260303_225827.sql
+2026-03-03 22:58:27 - INFO - Background flush thread started
+2026-03-03 22:58:27 - INFO - Loaded backup catalog with 8 entries
+2026-03-04 07:06:57 - INFO - Initialized new backup file: cdc_backup_20260304_070657.sql
+2026-03-04 07:06:57 - INFO - Background flush thread started
+2026-03-04 07:06:57 - INFO - Loaded backup catalog with 8 entries
+2026-03-04 07:12:00 - INFO - Initialized new backup file: cdc_backup_20260304_071200.sql
+2026-03-04 07:12:00 - INFO - Background flush thread started
+2026-03-04 07:12:00 - INFO - Loaded backup catalog with 8 entries
+2026-03-04 07:14:02 - INFO - Initialized new backup file: cdc_backup_20260304_071402.sql
+2026-03-04 07:14:02 - INFO - Background flush thread started
+2026-03-04 07:14:02 - INFO - Loaded backup catalog with 8 entries
+2026-03-04 07:14:31 - INFO - Initialized new backup file: cdc_backup_20260304_071431.sql
+2026-03-04 07:14:31 - INFO - Background flush thread started
+2026-03-04 07:14:31 - INFO - Loaded backup catalog with 8 entries
+2026-03-04 07:15:38 - INFO - Initialized new backup file: cdc_backup_20260304_071538.sql
+2026-03-04 07:15:38 - INFO - Background flush thread started
+2026-03-04 07:15:38 - INFO - Loaded backup catalog with 8 entries
+2026-03-04 07:23:17 - INFO - Initialized new backup file: cdc_backup_20260304_072317.sql
+2026-03-04 07:23:17 - INFO - Background flush thread started
+2026-03-04 07:23:17 - INFO - Loaded backup catalog with 8 entries
+2026-03-04 07:28:18 - INFO - Initialized new backup file: cdc_backup_20260304_072818.sql
+2026-03-04 07:28:18 - INFO - Background flush thread started
+2026-03-04 07:28:18 - INFO - Loaded backup catalog with 8 entries

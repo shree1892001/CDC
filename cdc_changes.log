@@ -1241,3 +1241,368 @@
 2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
 2024-12-23 10:29:09 - Received change: b'COMMIT 4342'
 2024-12-23 10:29:09 - Backup saved to cdc_backup.json\cdc_backup_20241223_102909.json
+2026-02-01 19:51:52 - INFO - Replication connection established
+2026-02-01 19:51:52 - INFO - Loaded last LSN: 182745640
+2026-02-01 19:51:52 - INFO - CDC Processor with PITR initialized
+2026-02-01 19:51:52 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-01 19:51:52 - ERROR - Error starting replication: list index out of range
+2026-02-01 19:58:39 - INFO - Replication connection established
+2026-02-01 19:58:39 - INFO - Loaded last LSN: 182745640
+2026-02-01 19:58:39 - INFO - CDC Processor with PITR initialized
+2026-02-01 19:58:39 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-01 19:58:39 - INFO - Resuming replication from last known LSN: 182745640
+2026-02-01 19:58:39 - INFO - Starting to consume changes...
+2026-02-01 19:58:39 - INFO - Captured INSERT on public.admin (LSN: 0/32264472, TxID: 752)
+2026-02-01 19:58:39 - INFO - Captured INSERT on public.employee (LSN: 0/32265080, TxID: 753)
+2026-02-01 19:58:39 - INFO - Captured INSERT on public.employee (LSN: 0/32266000, TxID: 755)
+2026-02-01 19:58:39 - INFO - Captured INSERT on public.employee (LSN: 0/32266904, TxID: 756)
+2026-02-01 19:58:39 - INFO - Captured INSERT on public.employee (LSN: 0/32267776, TxID: 757)
+2026-02-01 19:58:39 - INFO - Captured INSERT on public.employee (LSN: 0/32269224, TxID: 758)
+2026-02-01 19:58:39 - INFO - Captured INSERT on public.employee (LSN: 0/32270256, TxID: 759)
+2026-02-01 19:58:39 - INFO - Captured INSERT on public.employee (LSN: 0/32271368, TxID: 760)
+2026-02-01 19:58:39 - INFO - Captured INSERT on public.employee (LSN: 0/32272560, TxID: 761)
+2026-02-01 19:58:39 - INFO - Captured INSERT on public.employee (LSN: 0/32273776, TxID: 762)
+2026-02-01 20:26:40 - INFO - Replication connection established
+2026-02-01 20:26:40 - INFO - Loaded last LSN: 0/32274840
+2026-02-01 20:26:40 - INFO - CDC Processor with PITR initialized
+2026-02-01 20:26:40 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-01 20:26:40 - INFO - Resuming replication from last known LSN: 0/32274840
+2026-02-01 20:26:40 - INFO - Starting to consume changes...
+2026-02-01 20:28:17 - INFO - Replication connection established
+2026-02-01 20:28:17 - INFO - Loaded last LSN: 0/32274840
+2026-02-01 20:28:17 - INFO - CDC Processor with PITR initialized
+2026-02-01 20:28:17 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-01 20:28:17 - INFO - Resuming replication from last known LSN: 0/32274840
+2026-02-01 20:28:17 - INFO - Starting to consume changes...
+2026-02-01 20:32:51 - INFO - Received shutdown signal: 2
+2026-02-01 20:32:51 - INFO - Shutdown requested, stopping replication
+2026-02-01 20:32:51 - INFO - Replication stopped by user
+2026-02-01 20:32:51 - INFO - Shutting down CDC Processor...
+2026-02-01 20:32:52 - INFO - Shutdown complete
+2026-02-01 20:32:52 - INFO - Replication connection established
+2026-02-01 20:32:52 - INFO - Loaded last LSN: 0/32274840
+2026-02-01 20:32:52 - INFO - CDC Processor with PITR initialized
+2026-02-01 20:32:52 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-01 20:32:52 - INFO - Resuming replication from last known LSN: 0/32274840
+2026-02-01 20:32:52 - INFO - Starting to consume changes...
+2026-02-01 20:32:52 - INFO - Captured INSERT on public.employee (LSN: 0/32281992, TxID: 763)
+2026-02-02 05:16:04 - INFO - Replication connection established
+2026-02-02 05:16:04 - INFO - Loaded last LSN: 0/32283136
+2026-02-02 05:16:04 - INFO - CDC Processor with PITR initialized
+2026-02-02 05:16:04 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-02 05:16:04 - INFO - Resuming replication from last known LSN: 0/32283136
+2026-02-02 05:16:04 - INFO - Starting to consume changes...
+2026-02-02 05:16:57 - INFO - Captured INSERT on public.employee (LSN: 0/32283424, TxID: 764)
+2026-02-02 05:16:57 - INFO - Transaction 764 committed at LSN 0/32284648
+2026-02-02 07:25:44 - ERROR - Error consuming stream: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2026-02-02 07:25:44 - INFO - Shutting down CDC Processor...
+2026-02-02 07:25:44 - INFO - Shutdown complete
+2026-02-02 07:38:44 - INFO - Replication connection established
+2026-02-02 07:38:44 - INFO - Loaded last LSN: 0/32284648
+2026-02-02 07:38:44 - INFO - CDC Processor with PITR initialized
+2026-02-02 07:38:44 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-02 07:38:44 - INFO - Resuming replication from last known LSN: 0/32284648
+2026-02-02 07:38:44 - INFO - Starting to consume changes...
+2026-02-03 20:50:30 - INFO - Replication connection established
+2026-02-03 20:50:30 - INFO - Loaded last LSN: 0/32284648
+2026-02-03 20:50:30 - INFO - CDC Processor with PITR initialized
+2026-02-03 21:01:26 - INFO - Replication connection established
+2026-02-03 21:01:26 - INFO - Loaded last LSN: 0/32284648
+2026-02-03 21:01:26 - INFO - CDC Processor with PITR initialized
+2026-02-03 21:01:26 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-03 21:01:26 - INFO - Resuming replication from last known LSN: 0/32284648
+2026-02-03 21:01:26 - INFO - Starting to consume changes...
+2026-02-03 21:51:36 - ERROR - Error consuming stream: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2026-02-03 21:51:36 - INFO - Shutting down CDC Processor...
+2026-02-03 21:51:38 - INFO - Shutdown complete
+2026-02-04 07:28:05 - INFO - Replication connection established
+2026-02-04 07:28:05 - INFO - Loaded last LSN: 0/32284648
+2026-02-04 07:28:05 - INFO - CDC Processor with PITR initialized
+2026-02-04 07:28:05 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-04 07:28:05 - INFO - Resuming replication from last known LSN: 0/32284648
+2026-02-04 07:28:05 - INFO - Starting to consume changes...
+2026-02-05 06:27:39 - INFO - Replication connection established
+2026-02-05 06:27:39 - INFO - Loaded last LSN: 0/32284648
+2026-02-05 06:27:39 - INFO - CDC Processor with PITR initialized
+2026-02-05 06:27:39 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-05 06:27:39 - INFO - Resuming replication from last known LSN: 0/32284648
+2026-02-05 06:27:39 - INFO - Starting to consume changes...
+2026-02-05 07:33:46 - INFO - Captured INSERT on public.employee (LSN: 0/32285136, TxID: 765)
+2026-02-05 07:33:46 - INFO - Transaction 765 committed at LSN 0/32286424
+2026-02-15 13:22:43 - INFO - Replication connection established
+2026-02-15 13:22:43 - INFO - Loaded last LSN: 0/32286424
+2026-02-15 13:22:43 - INFO - CDC Processor with PITR initialized
+2026-02-15 13:22:43 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-15 13:22:43 - INFO - Resuming replication from last known LSN: 0/32286424
+2026-02-15 13:22:43 - INFO - Starting to consume changes...
+2026-02-15 13:22:43 - INFO - Transaction 767 committed at LSN 0/32430904
+2026-02-15 13:22:43 - INFO - Captured INSERT on public.restore_test_kv (LSN: 0/32430904, TxID: 768)
+2026-02-15 13:22:43 - INFO - Transaction 768 committed at LSN 0/32431176
+2026-02-15 13:22:43 - INFO - Captured INSERT on public.restore_test_kv (LSN: 0/32431176, TxID: 769)
+2026-02-15 13:22:43 - INFO - Transaction 769 committed at LSN 0/32431352
+2026-02-15 13:22:43 - INFO - Captured INSERT on public.restore_test_kv (LSN: 0/32431352, TxID: 770)
+2026-02-15 13:22:43 - INFO - Transaction 770 committed at LSN 0/32431528
+2026-02-15 13:22:43 - INFO - Captured UPDATE on public.restore_test_kv (LSN: 0/32431528, TxID: 771)
+2026-02-15 13:22:43 - INFO - Transaction 771 committed at LSN 0/32431656
+2026-02-15 13:22:43 - INFO - Transaction 772 committed at LSN 0/32457688
+2026-02-15 13:22:43 - INFO - Transaction 773 committed at LSN 0/32484400
+2026-02-15 13:22:43 - INFO - Transaction 774 committed at LSN 0/32493880
+2026-02-15 13:22:43 - INFO - Transaction 775 committed at LSN 0/32499880
+2026-02-15 13:22:43 - INFO - Transaction 776 committed at LSN 0/32502816
+2026-02-15 13:22:43 - INFO - Transaction 777 committed at LSN 0/32513760
+2026-02-15 13:22:43 - INFO - Transaction 778 committed at LSN 0/32598920
+2026-02-15 13:22:43 - INFO - Transaction 780 committed at LSN 0/32605288
+2026-02-15 13:22:43 - INFO - Transaction 782 committed at LSN 0/32622720
+2026-02-15 13:22:43 - INFO - Transaction 784 committed at LSN 0/32666856
+2026-02-15 13:22:43 - INFO - Transaction 785 committed at LSN 0/32670592
+2026-02-15 13:22:43 - INFO - Transaction 786 committed at LSN 0/32680688
+2026-02-15 13:22:43 - INFO - Transaction 787 committed at LSN 0/32712824
+2026-02-15 13:22:43 - INFO - Transaction 788 committed at LSN 0/32722256
+2026-02-15 13:22:43 - INFO - Transaction 789 committed at LSN 0/32723544
+2026-02-15 13:22:43 - INFO - Transaction 790 committed at LSN 0/32738888
+2026-02-15 13:22:43 - INFO - Transaction 791 committed at LSN 0/32741824
+2026-02-15 13:22:43 - INFO - Transaction 792 committed at LSN 0/32744600
+2026-02-15 13:22:43 - INFO - Transaction 793 committed at LSN 0/32832952
+2026-02-15 13:22:43 - INFO - Transaction 795 committed at LSN 0/32839320
+2026-02-15 13:22:43 - INFO - Transaction 797 committed at LSN 0/32856920
+2026-02-15 13:22:43 - INFO - Transaction 799 committed at LSN 0/32894216
+2026-02-15 13:22:43 - INFO - Transaction 800 committed at LSN 0/32897928
+2026-02-15 13:22:43 - INFO - Transaction 801 committed at LSN 0/32901688
+2026-02-15 13:22:43 - INFO - Transaction 802 committed at LSN 0/32903032
+2026-02-15 13:22:43 - INFO - Transaction 803 committed at LSN 0/32904320
+2026-02-15 13:22:43 - INFO - Transaction 804 committed at LSN 0/32905608
+2026-02-15 13:22:43 - INFO - Transaction 805 committed at LSN 0/32908384
+2026-02-15 13:22:43 - INFO - Transaction 806 committed at LSN 0/32911320
+2026-02-15 13:22:43 - INFO - Transaction 807 committed at LSN 0/32914072
+2026-02-15 13:22:43 - INFO - Transaction 808 committed at LSN 0/32923024
+2026-02-15 13:22:43 - INFO - Transaction 810 committed at LSN 0/32929392
+2026-02-15 13:22:44 - INFO - Transaction 812 committed at LSN 0/32935392
+2026-02-15 13:22:44 - INFO - Transaction 814 committed at LSN 0/32939184
+2026-02-15 13:22:44 - INFO - Transaction 815 committed at LSN 0/32942920
+2026-02-15 13:22:44 - INFO - Transaction 816 committed at LSN 0/32946656
+2026-02-15 13:26:18 - INFO - Replication connection established
+2026-02-15 13:26:18 - INFO - Loaded last LSN: 0/32946656
+2026-02-15 13:26:18 - INFO - CDC Processor with PITR initialized
+2026-02-15 13:26:18 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-15 13:26:18 - ERROR - Error starting replication: replication slot "vstatetest_slot" is active for PID 58852
+
+2026-02-15 13:34:46 - INFO - Replication connection established
+2026-02-15 13:34:46 - INFO - Loaded last LSN: 0/32946656
+2026-02-15 13:34:46 - INFO - CDC Processor with PITR initialized
+2026-02-15 13:34:46 - INFO - Replication slot 'vstatetest_slot' already exists
+2026-02-15 13:34:46 - ERROR - Error starting replication: replication slot "vstatetest_slot" is active for PID 58852
+
+2026-02-15 14:01:29 - INFO - Replication connection established
+2026-02-15 14:01:29 - INFO - Loaded last LSN: 0/32946656
+2026-02-15 14:01:29 - INFO - CDC Processor with PITR initialized
+2026-02-15 14:01:29 - WARNING - Replication slot 'vstatetest_slot' already exists and is ACTIVE (PID 58852)
+2026-02-15 14:01:29 - ERROR - Error starting replication: replication slot "vstatetest_slot" is active for PID 58852
+
+2026-02-15 19:42:37 - INFO - Replication connection established
+2026-02-15 19:42:37 - INFO - Loaded last LSN: 0/32946656
+2026-02-15 19:42:37 - INFO - CDC Processor with PITR initialized
+2026-02-15 19:42:37 - WARNING - Replication slot 'vstatetest_slot' already exists and is ACTIVE (PID 58852)
+2026-02-15 19:42:37 - ERROR - Error starting replication: replication slot "vstatetest_slot" is active for PID 58852
+
+2026-02-15 20:05:40 - INFO - Replication connection established
+2026-02-15 20:05:40 - INFO - Loaded last LSN: 0/32946656
+2026-02-15 20:05:40 - INFO - CDC Processor with PITR initialized
+2026-02-15 20:05:40 - INFO - Creating TEMPORARY replication slot 'vstatetest_slot_temp'
+2026-02-15 20:05:40 - INFO - Temporary replication slot 'vstatetest_slot_temp' created successfully
+2026-02-15 20:05:40 - INFO - Resuming replication from last known LSN: 0/32946656
+2026-02-15 20:05:40 - INFO - Starting to consume changes...
+2026-02-15 20:14:09 - INFO - Captured INSERT on public.employee (LSN: 0/32947000, TxID: 817)
+2026-02-15 20:14:09 - INFO - Captured INSERT on public.employee (LSN: 0/32947000, TxID: 817)
+2026-02-15 20:14:09 - INFO - Transaction 817 committed at LSN 0/32947296
+2026-02-15 20:14:09 - INFO - Transaction 817 committed at LSN 0/32947296
+2026-02-15 20:18:36 - INFO - Replication connection established
+2026-02-15 20:18:36 - INFO - Loaded last LSN: 0/32947296
+2026-02-15 20:18:36 - INFO - CDC Processor with PITR initialized
+2026-02-15 20:18:36 - WARNING - Replication slot 'vstatetest_slot_temp' already exists and is ACTIVE (PID 23652)
+2026-02-15 20:18:36 - ERROR - Error starting replication: replication slot "vstatetest_slot_temp" is active for PID 23652
+
+2026-02-15 20:21:03 - INFO - Replication connection established
+2026-02-15 20:21:03 - INFO - Loaded last LSN: 0/32947296
+2026-02-15 20:21:03 - INFO - CDC Processor with PITR initialized
+2026-02-15 20:21:03 - INFO - Creating TEMPORARY replication slot 'vstatetest_slot_temp'
+2026-02-15 20:21:03 - INFO - Temporary replication slot 'vstatetest_slot_temp' created successfully
+2026-02-15 20:21:03 - INFO - Resuming replication from last known LSN: 0/32947296
+2026-02-15 20:21:03 - INFO - Starting to consume changes...
+2026-02-15 20:22:21 - INFO - Received shutdown signal: 2
+2026-02-15 20:22:21 - INFO - Shutdown requested, stopping replication
+2026-02-15 20:22:21 - INFO - Replication stopped by user
+2026-02-15 20:22:21 - INFO - Shutting down CDC Processor...
+2026-02-15 20:22:21 - INFO - Shutdown complete
+2026-02-15 20:22:21 - INFO - Captured INSERT on public.employee (LSN: 0/32947640, TxID: 818)
+2026-02-15 20:22:21 - INFO - Transaction 818 committed at LSN 0/32948056
+2026-02-15 20:22:22 - INFO - Replication connection established
+2026-02-15 20:22:22 - INFO - Loaded last LSN: 0/32948056
+2026-02-15 20:22:22 - INFO - CDC Processor with PITR initialized
+2026-02-15 20:22:22 - INFO - Creating TEMPORARY replication slot 'vstatetest_slot_temp'
+2026-02-15 20:22:22 - INFO - Temporary replication slot 'vstatetest_slot_temp' created successfully
+2026-02-15 20:22:22 - INFO - Resuming replication from last known LSN: 0/32948056
+2026-02-15 20:22:22 - INFO - Starting to consume changes...
+2026-02-15 22:06:00 - INFO - Replication connection established
+2026-02-15 22:06:05 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33136920, TxID: 819)
+2026-02-15 22:06:05 - INFO - Transaction 819 committed at LSN 0/33139032
+2026-02-15 22:06:06 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33136920, TxID: 819)
+2026-02-15 22:06:06 - INFO - Transaction 819 committed at LSN 0/33139032
+2026-02-15 22:06:07 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33139032, TxID: 820)
+2026-02-15 22:06:07 - INFO - Transaction 820 committed at LSN 0/33139232
+2026-02-15 22:06:07 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33139032, TxID: 820)
+2026-02-15 22:06:07 - INFO - Transaction 820 committed at LSN 0/33139232
+2026-02-15 22:06:36 - INFO - Replication connection established
+2026-02-15 22:06:36 - INFO - Loaded last LSN: 0/33139232
+2026-02-15 22:06:36 - INFO - CDC Processor with PITR initialized
+2026-02-15 22:06:36 - WARNING - Replication slot 'vstatetest_slot_temp' already exists and is ACTIVE (PID 57384)
+2026-02-15 22:06:36 - ERROR - Error starting replication: replication slot "vstatetest_slot_temp" is active for PID 57384
+
+2026-02-15 22:12:36 - INFO - Replication connection established
+2026-02-15 22:12:36 - INFO - Loaded last LSN: 0/33139232
+2026-02-15 22:12:36 - INFO - CDC Processor with PITR initialized
+2026-02-15 22:12:36 - INFO - Creating TEMPORARY replication slot 'vstatetest_slot_temp_v2'
+2026-02-15 22:12:36 - INFO - Temporary replication slot 'vstatetest_slot_temp_v2' created successfully on replication connection
+2026-02-15 22:12:36 - INFO - Resuming replication from last known LSN: 0/33139232
+2026-02-15 22:12:36 - INFO - Starting to consume changes...
+2026-02-15 22:12:41 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33139680, TxID: 821)
+2026-02-15 22:12:41 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33139680, TxID: 821)
+2026-02-15 22:12:41 - INFO - Transaction 821 committed at LSN 0/33140184
+2026-02-15 22:12:41 - INFO - Transaction 821 committed at LSN 0/33140184
+2026-02-15 22:12:41 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33139680, TxID: 821)
+2026-02-15 22:12:41 - INFO - Transaction 821 committed at LSN 0/33140184
+2026-02-15 22:12:43 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33140184, TxID: 822)
+2026-02-15 22:12:43 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33140184, TxID: 822)
+2026-02-15 22:12:43 - INFO - Transaction 822 committed at LSN 0/33140384
+2026-02-15 22:12:43 - INFO - Transaction 822 committed at LSN 0/33140384
+2026-02-15 22:21:23 - INFO - Captured INSERT on public.employee (LSN: 0/33141064, TxID: 824)
+2026-02-15 22:21:23 - INFO - Captured INSERT on public.employee (LSN: 0/33141064, TxID: 824)
+2026-02-15 22:21:23 - INFO - Transaction 824 committed at LSN 0/33141360
+2026-02-15 22:21:23 - INFO - Captured INSERT on public.employee (LSN: 0/33141064, TxID: 824)
+2026-02-15 22:21:23 - INFO - Transaction 824 committed at LSN 0/33141360
+2026-02-15 22:21:23 - INFO - Transaction 824 committed at LSN 0/33141360
+2026-02-15 23:00:44 - INFO - Replication connection established
+2026-02-15 23:00:44 - INFO - Loaded last LSN: 0/33141360
+2026-02-15 23:00:44 - INFO - CDC Processor with PITR initialized
+2026-02-15 23:00:44 - WARNING - Replication slot 'vstatetest_slot_temp_v2' already exists and is ACTIVE (PID 30220)
+2026-02-15 23:00:44 - ERROR - Error starting replication: replication slot "vstatetest_slot_temp_v2" is active for PID 30220
+
+2026-02-15 23:00:52 - INFO - Replication connection established
+2026-02-15 23:00:52 - INFO - Loaded last LSN: 0/33141360
+2026-02-15 23:00:52 - INFO - CDC Processor with PITR initialized
+2026-02-15 23:00:52 - WARNING - Replication slot 'vstatetest_slot_temp_v2' already exists and is ACTIVE (PID 30220)
+2026-02-15 23:00:52 - ERROR - Error starting replication: replication slot "vstatetest_slot_temp_v2" is active for PID 30220
+
+2026-02-15 23:02:43 - ERROR - Error consuming stream: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2026-02-15 23:02:43 - INFO - Shutting down CDC Processor...
+2026-02-15 23:02:43 - INFO - Shutdown complete
+2026-02-15 23:02:43 - ERROR - Error consuming stream: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2026-02-15 23:02:43 - INFO - Shutting down CDC Processor...
+2026-02-15 23:02:43 - INFO - Shutdown complete
+2026-02-15 23:02:49 - ERROR - Error connecting to database: connection to server at "127.0.0.1", port 5432 failed: FATAL:  the database system is in recovery mode
+
+2026-02-15 23:03:02 - INFO - Replication connection established
+2026-02-15 23:03:02 - INFO - Loaded last LSN: 0/33141360
+2026-02-15 23:03:02 - INFO - CDC Processor with PITR initialized
+2026-02-15 23:03:02 - INFO - Creating TEMPORARY replication slot 'vstatetest_slot_temp_v2'
+2026-02-15 23:03:02 - INFO - Temporary replication slot 'vstatetest_slot_temp_v2' created successfully on replication connection
+2026-02-15 23:03:02 - INFO - Resuming replication from last known LSN: 0/33141360
+2026-02-15 23:03:02 - INFO - Starting to consume changes...
+2026-02-15 23:03:21 - INFO - Captured INSERT on public.employee (LSN: 0/33142392, TxID: 826)
+2026-02-15 23:03:21 - INFO - Transaction 826 committed at LSN 0/33142704
+2026-02-15 23:11:12 - INFO - Replication connection established
+2026-02-15 23:11:12 - INFO - Loaded last LSN: 0/33142704
+2026-02-15 23:11:12 - INFO - CDC Processor with PITR initialized
+2026-02-15 23:11:12 - WARNING - Replication slot 'vstatetest_slot_temp_v2' already exists and is ACTIVE (PID 67364)
+2026-02-15 23:11:12 - ERROR - Error starting replication: replication slot "vstatetest_slot_temp_v2" is active for PID 67364
+
+2026-02-15 23:11:12 - INFO - Shutting down CDC Processor...
+2026-02-15 23:11:12 - INFO - Shutdown complete
+2026-02-15 23:12:39 - INFO - Replication connection established
+2026-02-15 23:12:39 - INFO - Loaded last LSN: 0/33142704
+2026-02-15 23:12:39 - INFO - CDC Processor with PITR initialized
+2026-02-15 23:12:39 - WARNING - Replication slot 'vstatetest_slot_temp_v2' already exists and is ACTIVE (PID 67364)
+2026-02-15 23:12:39 - ERROR - Error starting replication: replication slot "vstatetest_slot_temp_v2" is active for PID 67364
+
+2026-02-15 23:12:39 - INFO - Shutting down CDC Processor...
+2026-02-15 23:12:39 - INFO - Shutdown complete
+2026-02-15 23:12:44 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33143096, TxID: 827)
+2026-02-15 23:12:44 - INFO - Transaction 827 committed at LSN 0/33143776
+2026-02-15 23:14:30 - INFO - Replication connection established
+2026-02-15 23:14:30 - INFO - Loaded last LSN: 0/33143776
+2026-02-15 23:14:30 - INFO - CDC Processor with PITR initialized
+2026-02-15 23:14:30 - INFO - Creating TEMPORARY replication slot 'verify_flush_slot'
+2026-02-15 23:14:30 - INFO - Temporary replication slot 'verify_flush_slot' created successfully on replication connection
+2026-02-15 23:14:30 - INFO - Resuming replication from last known LSN: 0/33143776
+2026-02-15 23:14:30 - INFO - Starting to consume changes...
+2026-02-15 23:14:35 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33144224, TxID: 828)
+2026-02-15 23:14:35 - INFO - Captured INSERT on public.cdc_test (LSN: 0/33144224, TxID: 828)
+2026-02-15 23:14:35 - INFO - Transaction 828 committed at LSN 0/33145016
+2026-02-15 23:14:35 - INFO - Transaction 828 committed at LSN 0/33145016
+2026-02-15 23:14:35 - INFO - Triggering backup flush for transaction 828
+2026-02-15 23:17:06 - INFO - Replication connection established
+2026-02-15 23:17:06 - INFO - Loaded last LSN: 0/33145016
+2026-02-15 23:17:06 - INFO - CDC Processor with PITR initialized
+2026-02-15 23:17:06 - INFO - Creating TEMPORARY replication slot 'vstatetest_slot_temp_v2'
+2026-02-15 23:17:07 - INFO - Temporary replication slot 'vstatetest_slot_temp_v2' created successfully on replication connection
+2026-02-15 23:17:07 - INFO - Resuming replication from last known LSN: 0/33145016
+2026-02-15 23:17:07 - INFO - Starting to consume changes...
+2026-02-15 23:17:56 - INFO - Captured INSERT on public.employee (LSN: 0/33145360, TxID: 829)
+2026-02-15 23:17:56 - INFO - Transaction 829 committed at LSN 0/33146144
+2026-02-15 23:17:56 - INFO - Triggering backup flush for transaction 829
+2026-03-03 18:26:48 - INFO - Replication connection established
+2026-03-03 18:26:49 - INFO - Loaded last LSN: 0/33146144
+2026-03-03 18:26:49 - INFO - CDC Processor with PITR initialized
+2026-03-03 18:26:49 - INFO - Creating TEMPORARY replication slot 'vstatetest_slot_temp_v2'
+2026-03-03 18:26:49 - INFO - Temporary replication slot 'vstatetest_slot_temp_v2' created successfully on replication connection
+2026-03-03 18:26:49 - INFO - Resuming replication from last known LSN: 0/33146144
+2026-03-03 18:26:49 - INFO - Starting to consume changes...
+2026-03-03 18:33:07 - INFO - Replication connection established
+2026-03-03 18:33:07 - INFO - Loaded last LSN: 0/33146144
+2026-03-03 18:33:07 - INFO - CDC Processor with PITR initialized
+2026-03-03 18:33:07 - WARNING - Replication slot 'vstatetest_slot_temp_v2' already exists and is ACTIVE (PID 15116)
+2026-03-03 18:33:07 - ERROR - Error starting replication: replication slot "vstatetest_slot_temp_v2" is active for PID 15116
+
+2026-03-03 18:35:07 - ERROR - Error consuming stream: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2026-03-03 18:35:07 - INFO - Shutting down CDC Processor...
+2026-03-03 18:35:08 - INFO - Shutdown complete
+2026-03-03 18:35:14 - INFO - Replication connection established
+2026-03-03 18:35:14 - INFO - Loaded last LSN: 0/33146144
+2026-03-03 18:35:14 - INFO - CDC Processor with PITR initialized
+2026-03-03 18:35:14 - INFO - Creating TEMPORARY replication slot 'vstatetest_slot_temp_v2'
+2026-03-03 18:35:14 - INFO - Temporary replication slot 'vstatetest_slot_temp_v2' created successfully on replication connection
+2026-03-03 18:35:14 - INFO - Resuming replication from last known LSN: 0/33146144
+2026-03-03 18:35:14 - INFO - Starting to consume changes...
+2026-03-03 18:53:48 - INFO - Captured INSERT on public.employee (LSN: 0/33147536, TxID: 830)
+2026-03-03 18:53:48 - INFO - Transaction 830 committed at LSN 0/33148448
+2026-03-03 18:53:48 - INFO - Triggering backup flush for transaction 830
+2026-03-03 20:39:08 - ERROR - Error consuming stream: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2026-03-03 20:39:08 - INFO - Shutting down CDC Processor...
+2026-03-03 20:39:08 - INFO - Shutdown complete
+2026-03-03 22:22:42 - INFO - Replication connection established
+2026-03-03 22:22:42 - INFO - Loaded last LSN: 0/33148448
+2026-03-03 22:22:42 - INFO - CDC Processor with PITR initialized
+2026-03-03 22:22:42 - INFO - Creating TEMPORARY replication slot 'vstatetest_slot_temp_v2'
+2026-03-03 22:22:42 - INFO - Temporary replication slot 'vstatetest_slot_temp_v2' created successfully on replication connection
+2026-03-03 22:22:42 - INFO - Resuming replication from last known LSN: 0/33148448
+2026-03-03 22:22:42 - INFO - Starting to consume changes...
+2026-03-03 22:23:29 - INFO - Captured INSERT on public.employee (LSN: 0/33148792, TxID: 831)
+2026-03-03 22:23:29 - INFO - Transaction 831 committed at LSN 0/33149736
+2026-03-03 22:23:29 - INFO - Triggering backup flush for transaction 831

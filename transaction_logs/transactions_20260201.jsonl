@@ -1,0 +1,22 @@
+{"txid": 752, "start_lsn": "0/32264472", "start_timestamp": "2026-02-01T19:58:39.204564", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 752, "start_lsn": "0/32264472", "start_timestamp": "2026-02-01T19:58:39.204564", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.admin"], "end_lsn": "0/32264792", "end_timestamp": "2026-02-01T19:58:39.222883"}
+{"txid": 753, "start_lsn": "0/32265080", "start_timestamp": "2026-02-01T19:58:39.222883", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 753, "start_lsn": "0/32265080", "start_timestamp": "2026-02-01T19:58:39.222883", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32265376", "end_timestamp": "2026-02-01T19:58:39.222883"}
+{"txid": 755, "start_lsn": "0/32266000", "start_timestamp": "2026-02-01T19:58:39.229839", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 755, "start_lsn": "0/32266000", "start_timestamp": "2026-02-01T19:58:39.229839", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32266280", "end_timestamp": "2026-02-01T19:58:39.229839"}
+{"txid": 756, "start_lsn": "0/32266904", "start_timestamp": "2026-02-01T19:58:39.238701", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 756, "start_lsn": "0/32266904", "start_timestamp": "2026-02-01T19:58:39.238701", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32267488", "end_timestamp": "2026-02-01T19:58:39.245344"}
+{"txid": 757, "start_lsn": "0/32267776", "start_timestamp": "2026-02-01T19:58:39.246495", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 757, "start_lsn": "0/32267776", "start_timestamp": "2026-02-01T19:58:39.246495", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32268472", "end_timestamp": "2026-02-01T19:58:39.250514"}
+{"txid": 758, "start_lsn": "0/32269224", "start_timestamp": "2026-02-01T19:58:39.252980", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 758, "start_lsn": "0/32269224", "start_timestamp": "2026-02-01T19:58:39.252980", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32269968", "end_timestamp": "2026-02-01T19:58:39.261099"}
+{"txid": 759, "start_lsn": "0/32270256", "start_timestamp": "2026-02-01T19:58:39.262603", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 759, "start_lsn": "0/32270256", "start_timestamp": "2026-02-01T19:58:39.262603", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32271080", "end_timestamp": "2026-02-01T19:58:39.262603"}
+{"txid": 760, "start_lsn": "0/32271368", "start_timestamp": "2026-02-01T19:58:39.270073", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 760, "start_lsn": "0/32271368", "start_timestamp": "2026-02-01T19:58:39.270073", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32272272", "end_timestamp": "2026-02-01T19:58:39.270073"}
+{"txid": 761, "start_lsn": "0/32272560", "start_timestamp": "2026-02-01T19:58:39.270073", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 761, "start_lsn": "0/32272560", "start_timestamp": "2026-02-01T19:58:39.270073", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32273544", "end_timestamp": "2026-02-01T19:58:39.278507"}
+{"txid": 762, "start_lsn": "0/32273776", "start_timestamp": "2026-02-01T19:58:39.279670", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 762, "start_lsn": "0/32273776", "start_timestamp": "2026-02-01T19:58:39.279670", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32274840", "end_timestamp": "2026-02-01T19:58:39.282634"}
+{"txid": 763, "start_lsn": "0/32281992", "start_timestamp": "2026-02-01T20:32:52.512850", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 763, "start_lsn": "0/32281992", "start_timestamp": "2026-02-01T20:32:52.512850", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32283136", "end_timestamp": "2026-02-01T20:32:52.512850"}

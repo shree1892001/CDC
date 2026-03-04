@@ -1,0 +1,6 @@
+BEGIN 748
+table public.admin: INSERT: id[integer]:3 name[character varying]:'Ranjan'
+COMMIT 748
+BEGIN 750
+table public.admin: INSERT: id[integer]:4 name[character varying]:'Ranjan'
+COMMIT 750

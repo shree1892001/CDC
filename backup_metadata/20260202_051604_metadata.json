@@ -1,0 +1,17 @@
+{
+  "backup_id": "20260202_051604",
+  "filename": "cdc_backup_20260202_051604.sql",
+  "start_time": "2026-02-02T05:16:04.275903",
+  "start_lsn": "0/32283424",
+  "end_lsn": "0/32283424",
+  "end_time": "2026-02-02T07:25:44.542175",
+  "changes_count": 1,
+  "tables_affected": [
+    "public.employee"
+  ],
+  "transactions": [
+    764
+  ],
+  "format": "sql",
+  "compressed": false
+}

@@ -1,0 +1,2 @@
+{"txid": 765, "start_lsn": "0/32285136", "start_timestamp": "2026-02-05T07:33:46.089444", "status": "ACTIVE", "changes_count": 0, "tables_affected": []}
+{"txid": 765, "start_lsn": "0/32285136", "start_timestamp": "2026-02-05T07:33:46.089444", "status": "COMMITTED", "changes_count": 1, "tables_affected": ["public.employee"], "end_lsn": "0/32286424", "end_timestamp": "2026-02-05T07:33:46.104738"}

@@ -1,0 +1,13 @@
+{
+  "backup_id": "20260215_202103",
+  "filename": "cdc_backup_20260215_202103.sql",
+  "start_time": "2026-02-15T20:21:03.461212",
+  "start_lsn": null,
+  "end_lsn": null,
+  "end_time": "2026-02-15T20:22:21.888831",
+  "changes_count": 0,
+  "tables_affected": [],
+  "transactions": [],
+  "format": "sql",
+  "compressed": false
+}

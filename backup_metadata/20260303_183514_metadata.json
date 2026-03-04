@@ -1,0 +1,20 @@
+{
+  "backup_id": "20260303_183514",
+  "filename": "cdc_backup_20260303_183514.sql",
+  "start_time": "2026-03-03T18:35:14.209130",
+  "start_lsn": "0/33147536",
+  "end_lsn": "0/33147536",
+  "end_time": "2026-03-03T20:39:08.875809",
+  "changes_count": 1,
+  "tables_affected": [
+    "public.employee"
+  ],
+  "transactions": [
+    830
+  ],
+  "format": "sql",
+  "compressed": false,
+  "parent_backup_id": "20260303_182648",
+  "base_backup_id": "20260215_231239",
+  "chain_depth": 2
+}
